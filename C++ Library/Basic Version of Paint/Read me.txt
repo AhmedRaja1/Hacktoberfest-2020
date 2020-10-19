@@ -1,0 +1,5 @@
+Hii Theree!!
+
+This is a very basic version paint program. 
+In this project one can write. 
+This project uses SFML for graphics so you will have to link this project to with sfml.
