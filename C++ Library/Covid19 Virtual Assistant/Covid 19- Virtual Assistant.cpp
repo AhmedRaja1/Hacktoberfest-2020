@@ -1,7 +1,3 @@
-// name : Waliiya Rizwan
-// section: B
-// reg. no : 19PWCSE1766
-// Project title : COVID-19 VIRTUAL ASSISTANT
 
 #include<iostream>
 #include<string>
