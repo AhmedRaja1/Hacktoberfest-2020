@@ -1,0 +1,5 @@
+Hii Theree!!!
+
+It is a arduino based project named as Gas leakage detector. It is part of a smart home system.
+In this project the gas sensor inputs gas leakage and output come as notification on your mobile, thus alerting you before any mishap.
+Here it is just the arduino code.
