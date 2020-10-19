@@ -28,14 +28,14 @@
 ### 8. Next Pointer to the Next Rider Profile
 
 ## Abstract:
-### Cab Rider Record System is a Ms-DOS style console Application designed for maintaining the records of the riders
+Cab Rider Record System is a Ms-DOS style console Application designed for maintaining the records of the riders
 who are active and providing their services to the ride booking company. The admin has all the controls, it can add,
 remove, view and edit the data of the riders. This system also exports data in form of .csv and .txt files. Thus, data
 can further be used for Data Analysis Stage. The admin is the controller of the system. The idea was to design such a
 system in which Riders information could be stored in an effective and efficient way, thus a new profile can be
 created and maintained and queries could be handled in an effective way.
 ## Description:
-### As the projects idea and its background is described earlier, now towards its technical details. The project mainly
+As the projects idea and its background is described earlier, now towards its technical details. The project mainly
 uses Doubly Linked List as its backend data structure. As Doubly Linked list is one of the fastest and dynamic data
 structures in terms of data queries, insertion, and its most important use making deletion easier. Single Linked List
 could also be used but as it becomes difficult to delete and insert, in terms of Deletion and Insertion Double Linked
@@ -45,7 +45,7 @@ to nodes. Some of the general Time Complexity Statistics of Double Linked List:
 2. Insertion O(1)
 3. Deletion O(1)
 4. Search O(n)
-### So, to perform different operations it uses while loop to reach to the desired node position. Main Menu is designed
+So, to perform different operations it uses while loop to reach to the desired node position. Main Menu is designed
 using the combination of Do While and Switch Case Statements.
 Another exclusive feature is that when a rider data is added it is being exported to .txt and .csv files using File
 Handling technique using the fstream.h library. The data collected in .csv file is then used to perform different data
