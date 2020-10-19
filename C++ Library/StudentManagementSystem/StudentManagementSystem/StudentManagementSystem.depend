@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1599991122 source:d:\4th semester\dsa\project\studentmanagement\studentmanagementsystem\main.cpp
+	<iostream>
+	<cstdio>
+	<cstdlib>
+	<conio.h>
+
