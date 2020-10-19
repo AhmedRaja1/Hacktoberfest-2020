@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1561575968 source:c:\users\toshiba\desktop\lab 11\20488\main.cpp
+	<iostream>
+	<ctime>
+	<iomanip>
+	<cstdlib>
+
+1569820926 source:c:\users\toshiba\desktop\uet\2nd semester\computer programming\project\20488\main.cpp
+	<iostream>
+	<ctime>
+	<iomanip>
+	<cstdlib>
+
