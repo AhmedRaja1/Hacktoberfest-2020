@@ -1,0 +1,5 @@
+Hii Theree!!!
+
+This is a Balloon Shooter Game.
+It is an OOP based project built in C++.
+It uses SFML for graphics, So you have to link SFML to it.
