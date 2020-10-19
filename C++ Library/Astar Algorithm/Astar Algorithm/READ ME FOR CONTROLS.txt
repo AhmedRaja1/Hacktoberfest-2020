@@ -1,0 +1,15 @@
+Hello there,  
+
+THIS PROJECT IS BASED ON MICROSOFT'S C++ RUN TIME LIBRARY. NOT THE MinGW RUNTIME LIBRARY FOUND
+IN CODEBLOCKS. KINDLY DOWNLOAD VISUAL STUDIO TO RUN THIS APPLICATION. 
+
+
+To change the end goal, hold control and click any node in the 16x16 space.
+
+To change the origin, hold shift and click any node in the 16x16 space. 
+
+To add obstacles, simply click any node in the 16x16 space. 
+
+Thank you, 
+Mian Inshaullah Zia. 
+18PWCSE1721
