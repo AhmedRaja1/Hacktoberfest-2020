@@ -1,0 +1,8 @@
+Hiii Theree!!
+
+This is an Employee Record System. 
+Employee Record System is a desktop application, which is develop in C++. 
+This program is consider as a simple database of employees in an office, an organization where the user can store employee’s record easily as it is not time-consuming. 
+At first it ask whether you want to a new record or search a record or update an existing record or delete a record or just display a record. 
+In a record, one can store employee’s id, name, qualification, address, job title, salary and starting date.
+It helps a company keep the track of its employees and gives easy excess to find an employee’s info.
