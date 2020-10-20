@@ -1,6 +1,6 @@
 # Hacktoberfest
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-9-orange.svg?style=flat-square)](#contributors-)
+[![All Contributors](https://img.shields.io/badge/all_contributors-10-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 
 ![Code For Good](https://raw.githubusercontent.com/AhmedRaja1/Hacktoberfest/Ahmed/Creative%20Graphic%20Design%20Content/code-for-good.png
@@ -27,6 +27,7 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
   <tr>
     <td align="center"><a href="https://github.com/SyedaFatima01"><img src="https://avatars0.githubusercontent.com/u/73131473?v=4" width="100px;" alt=""/><br /><sub><b>SyedaFatima01</b></sub></a><br /><a href="https://github.com/AhmedRaja1/Hacktoberfest/commits?author=SyedaFatima01" title="Code">💻</a></td>
     <td align="center"><a href="https://github.com/WaliiyaRizwan"><img src="https://avatars3.githubusercontent.com/u/72751932?v=4" width="100px;" alt=""/><br /><sub><b>Waliiya Rizwan</b></sub></a><br /><a href="https://github.com/AhmedRaja1/Hacktoberfest/commits?author=WaliiyaRizwan" title="Code">💻</a></td>
+    <td align="center"><a href="https://github.com/wareeshak999"><img src="https://avatars3.githubusercontent.com/u/72753730?v=4" width="100px;" alt=""/><br /><sub><b>wareeshak999</b></sub></a><br /><a href="https://github.com/AhmedRaja1/Hacktoberfest/commits?author=wareeshak999" title="Code">💻</a></td>
   </tr>
 </table>
 
