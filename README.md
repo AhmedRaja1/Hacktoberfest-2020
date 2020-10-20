@@ -9,7 +9,7 @@
 ## Contributors ✨
 ### Cheetahs :tiger2: of Open Source :heart:!!!
 
-## Thanks goes to these wonderful people!
+#### Thanks goes to these wonderful people!
 
 <!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
 <!-- prettier-ignore-start -->
