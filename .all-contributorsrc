@@ -15,6 +15,16 @@
         "test",
         "code"
       ]
+    },
+    {
+      "login": "AshleyAlexJacob",
+      "name": "Ashley Alex Jacob",
+      "avatar_url": "https://avatars3.githubusercontent.com/u/58916266?v=4",
+      "profile": "https://ashleyalexjacob.github.io/#first",
+      "contributions": [
+        "code",
+        "example"
+      ]
     }
   ],
   "contributorsPerLine": 7,
