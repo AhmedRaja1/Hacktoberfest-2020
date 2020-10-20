@@ -1,6 +1,6 @@
 # Hacktoberfest
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-13-orange.svg?style=flat-square)](#contributors-)
+[![All Contributors](https://img.shields.io/badge/all_contributors-14-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 
 ![Code For Good](https://raw.githubusercontent.com/AhmedRaja1/Hacktoberfest/Ahmed/Creative%20Graphic%20Design%20Content/code-for-good.png
@@ -16,8 +16,8 @@
 <!-- markdownlint-disable -->
 <table>
   <tr>
-    <td align="center"><a href="https://github.com/AhmedRaja1"><img src="https://avatars1.githubusercontent.com/u/52793181?v=4" width="100px;" alt=""/><br /><sub><b>RAJA AHMED</b></sub></a><br /> <a href="https://github.com/AhmedRaja1/Hacktoberfest/commits?author=AhmedRaja1" title="Code">💻</a></td>
-    <td align="center"><a href="https://ashleyalexjacob.github.io/#first"><img src="https://avatars3.githubusercontent.com/u/58916266?v=4" width="100px;" alt=""/><br /><sub><b>Ashley Alex Jacob</b></sub></a><br /><a href="https://github.com/AhmedRaja1/Hacktoberfest/commits?author=AshleyAlexJacob" title="Code">💻</a> 
+    <td align="center"><a href="https://github.com/AhmedRaja1"><img src="https://avatars1.githubusercontent.com/u/52793181?v=4" width="100px;" alt=""/><br /><sub><b>RAJA AHMED</b></sub></a><br /><a href="#infra-AhmedRaja1" title="Infrastructure (Hosting, Build-Tools, etc)">🚇</a> <a href="https://github.com/AhmedRaja1/Hacktoberfest/commits?author=AhmedRaja1" title="Tests">⚠️</a> <a href="https://github.com/AhmedRaja1/Hacktoberfest/commits?author=AhmedRaja1" title="Code">💻</a></td>
+    <td align="center"><a href="https://ashleyalexjacob.github.io/#first"><img src="https://avatars3.githubusercontent.com/u/58916266?v=4" width="100px;" alt=""/><br /><sub><b>Ashley Alex Jacob</b></sub></a><br /><a href="https://github.com/AhmedRaja1/Hacktoberfest/commits?author=AshleyAlexJacob" title="Code">💻</a> <a href="#example-AshleyAlexJacob" title="Examples">💡</a></td>
     <td align="center"><a href="https://github.com/abdulhadiayaz"><img src="https://avatars1.githubusercontent.com/u/54316001?v=4" width="100px;" alt=""/><br /><sub><b>abdulhadiayaz</b></sub></a><br /><a href="https://github.com/AhmedRaja1/Hacktoberfest/commits?author=abdulhadiayaz" title="Code">💻</a></td>
     <td align="center"><a href="https://github.com/azizkhan77"><img src="https://avatars2.githubusercontent.com/u/63731184?v=4" width="100px;" alt=""/><br /><sub><b>Abdul Aziz</b></sub></a><br /><a href="https://github.com/AhmedRaja1/Hacktoberfest/commits?author=azizkhan77" title="Code">💻</a></td>
     <td align="center"><a href="https://github.com/DanialKhan800"><img src="https://avatars0.githubusercontent.com/u/72875993?v=4" width="100px;" alt=""/><br /><sub><b>Muhammad Danial Khan</b></sub></a><br /><a href="https://github.com/AhmedRaja1/Hacktoberfest/commits?author=DanialKhan800" title="Code">💻</a></td>
@@ -31,6 +31,7 @@
     <td align="center"><a href="https://github.com/mohsin-code"><img src="https://avatars3.githubusercontent.com/u/59390499?v=4" width="100px;" alt=""/><br /><sub><b>Mohsin</b></sub></a><br /><a href="https://github.com/AhmedRaja1/Hacktoberfest/commits?author=mohsin-code" title="Code">💻</a></td>
     <td align="center"><a href="https://github.com/Wisal9"><img src="https://avatars2.githubusercontent.com/u/73090888?v=4" width="100px;" alt=""/><br /><sub><b>Wisal Mukhtiar</b></sub></a><br /><a href="https://github.com/AhmedRaja1/Hacktoberfest/commits?author=Wisal9" title="Code">💻</a></td>
     <td align="center"><a href="https://github.com/HasnainAhmedKhan"><img src="https://avatars2.githubusercontent.com/u/73159324?v=4" width="100px;" alt=""/><br /><sub><b>Hasnain Ahmed Khan</b></sub></a><br /><a href="https://github.com/AhmedRaja1/Hacktoberfest/commits?author=HasnainAhmedKhan" title="Code">💻</a></td>
+    <td align="center"><a href="https://github.com/yaseen589"><img src="https://avatars0.githubusercontent.com/u/73169435?v=4" width="100px;" alt=""/><br /><sub><b>Yaseen Irshad</b></sub></a><br /><a href="https://github.com/AhmedRaja1/Hacktoberfest/commits?author=yaseen589" title="Code">💻</a></td>
   </tr>
 </table>
 
