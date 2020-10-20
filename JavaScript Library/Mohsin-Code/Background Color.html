@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Change Background Color</title>
+    <style>
+
+        body{
+            margin: 0;
+            padding: 0;
+            background-color: white;
+        }
+
+        .area {
+            height: 100%;
+        }
+
+        #btn {
+            padding: 7px 10px;
+            border-color: black;
+            color: black;
+            background-color: white;
+            border-radius: 5px;
+            font-size: x-large;
+            margin: 20px;
+            position: absolute;
+            top: 50%;
+            left: 50%;
+            transform: translate(-50%, -50%);
+        }
+
+        #btn:hover {
+            color: white;
+            background-color: black;
+            cursor: pointer;
+        }
+    
+    </style>
+</head>
+
+<body>
+
+<div class="area">
+  <button id="btn" onclick="changeBg();">Click to change background color</button>
+</div>
+
+<script>
+    function changeBg() {
+        let colors = [`red`,`green`,`blue`,`pink`,`orange`,`purple`,`black`,`white`,`brown`,`yellow`];
+        let index = parseInt(Math.random() * colors.length);   
+        document.body.style.backgroundColor = colors[index]; 
+    }
+</script>
+
+</body>
+
+</html>
