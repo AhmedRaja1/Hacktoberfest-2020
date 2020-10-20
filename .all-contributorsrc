@@ -1,0 +1,26 @@
+{
+  "files": [
+    "README.md"
+  ],
+  "imageSize": 100,
+  "commit": false,
+  "contributors": [
+    {
+      "login": "AhmedRaja1",
+      "name": "RAJA AHMED",
+      "avatar_url": "https://avatars1.githubusercontent.com/u/52793181?v=4",
+      "profile": "https://github.com/AhmedRaja1",
+      "contributions": [
+        "infra",
+        "test",
+        "code"
+      ]
+    }
+  ],
+  "contributorsPerLine": 7,
+  "projectName": "Hacktoberfest",
+  "projectOwner": "AhmedRaja1",
+  "repoType": "github",
+  "repoHost": "https://github.com",
+  "skipCi": true
+}
