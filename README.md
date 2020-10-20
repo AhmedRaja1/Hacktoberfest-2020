@@ -7,7 +7,7 @@
 )
 
 ## Contributors ✨
-### We are working hard to add other contributors, but we ran into a problem, Sit back & Relax, Nahee tou Apne branch mein khud ko add karke PR bhej dein!
+### Cheetahs :tiger2: of Open Source :heart:!!!
 
 Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/docs/en/emoji-key)):
 
