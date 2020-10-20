@@ -1,6 +1,6 @@
 # Hacktoberfest
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-12-orange.svg?style=flat-square)](#contributors-)
+[![All Contributors](https://img.shields.io/badge/all_contributors-13-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 
 ![Code For Good](https://raw.githubusercontent.com/AhmedRaja1/Hacktoberfest/Ahmed/Creative%20Graphic%20Design%20Content/code-for-good.png
@@ -30,6 +30,7 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
     <td align="center"><a href="https://github.com/wareeshak999"><img src="https://avatars3.githubusercontent.com/u/72753730?v=4" width="100px;" alt=""/><br /><sub><b>wareeshak999</b></sub></a><br /><a href="https://github.com/AhmedRaja1/Hacktoberfest/commits?author=wareeshak999" title="Code">💻</a></td>
     <td align="center"><a href="https://github.com/mohsin-code"><img src="https://avatars3.githubusercontent.com/u/59390499?v=4" width="100px;" alt=""/><br /><sub><b>Mohsin</b></sub></a><br /><a href="https://github.com/AhmedRaja1/Hacktoberfest/commits?author=mohsin-code" title="Code">💻</a></td>
     <td align="center"><a href="https://github.com/Wisal9"><img src="https://avatars2.githubusercontent.com/u/73090888?v=4" width="100px;" alt=""/><br /><sub><b>Wisal Mukhtiar</b></sub></a><br /><a href="https://github.com/AhmedRaja1/Hacktoberfest/commits?author=Wisal9" title="Code">💻</a></td>
+    <td align="center"><a href="https://github.com/HasnainAhmedKhan"><img src="https://avatars2.githubusercontent.com/u/73159324?v=4" width="100px;" alt=""/><br /><sub><b>Hasnain Ahmed Khan</b></sub></a><br /><a href="https://github.com/AhmedRaja1/Hacktoberfest/commits?author=HasnainAhmedKhan" title="Code">💻</a></td>
   </tr>
 </table>
 
