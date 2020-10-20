@@ -1,0 +1,4 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(491,5): warning MSB8028: The intermediate directory (Debug\) contains files shared from another project (GAME ENGINE.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  Source.cpp
+C:\Users\Insha\Desktop\DSA PROJECT\GAME ENGINE\Source.cpp(102,47): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  GAME ENGINE.vcxproj -> C:\Users\Insha\Desktop\DSA PROJECT\GAME ENGINE\Debug\ASTAR_VISUALIZATION.exe

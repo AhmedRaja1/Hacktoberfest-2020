@@ -1,0 +1,2 @@
+Hii Theree!!
+This is a Tic-Tak-Toe game, programed in C++. Its a CLI based game so there are no graphics.

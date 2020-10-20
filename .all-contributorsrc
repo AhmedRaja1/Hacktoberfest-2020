@@ -1,0 +1,198 @@
+{
+  "files": [
+    "README.md"
+  ],
+  "imageSize": 100,
+  "commit": false,
+  "contributors": [
+    {
+      "login": "AhmedRaja1",
+      "name": "RAJA AHMED",
+      "avatar_url": "https://avatars1.githubusercontent.com/u/52793181?v=4",
+      "profile": "https://github.com/AhmedRaja1",
+      "contributions": [
+        "infra",
+        "test",
+        "code"
+      ]
+    },
+    {
+      "login": "AshleyAlexJacob",
+      "name": "Ashley Alex Jacob",
+      "avatar_url": "https://avatars3.githubusercontent.com/u/58916266?v=4",
+      "profile": "https://ashleyalexjacob.github.io/#first",
+      "contributions": [
+        "code",
+        "example"
+      ]
+    },
+    {
+      "login": "abdulhadiayaz",
+      "name": "abdulhadiayaz",
+      "avatar_url": "https://avatars1.githubusercontent.com/u/54316001?v=4",
+      "profile": "https://github.com/abdulhadiayaz",
+      "contributions": [
+        "code"
+      ]
+    },
+    {
+      "login": "azizkhan77",
+      "name": "Abdul Aziz",
+      "avatar_url": "https://avatars2.githubusercontent.com/u/63731184?v=4",
+      "profile": "https://github.com/azizkhan77",
+      "contributions": [
+        "code"
+      ]
+    },
+    {
+      "login": "DanialKhan800",
+      "name": "Muhammad Danial Khan",
+      "avatar_url": "https://avatars0.githubusercontent.com/u/72875993?v=4",
+      "profile": "https://github.com/DanialKhan800",
+      "contributions": [
+        "code"
+      ]
+    },
+    {
+      "login": "mhassaanch",
+      "name": "Muhammad Hassaan Chaudhry",
+      "avatar_url": "https://avatars3.githubusercontent.com/u/72786402?v=4",
+      "profile": "https://github.com/mhassaanch",
+      "contributions": [
+        "code"
+      ]
+    },
+    {
+      "login": "MianInshaullah",
+      "name": "Mian Inshaullah",
+      "avatar_url": "https://avatars3.githubusercontent.com/u/73126487?v=4",
+      "profile": "https://github.com/MianInshaullah",
+      "contributions": [
+        "code"
+      ]
+    },
+    {
+      "login": "SyedaFatima01",
+      "name": "SyedaFatima01",
+      "avatar_url": "https://avatars0.githubusercontent.com/u/73131473?v=4",
+      "profile": "https://github.com/SyedaFatima01",
+      "contributions": [
+        "code"
+      ]
+    },
+    {
+      "login": "WaliiyaRizwan",
+      "name": "Waliiya Rizwan",
+      "avatar_url": "https://avatars3.githubusercontent.com/u/72751932?v=4",
+      "profile": "https://github.com/WaliiyaRizwan",
+      "contributions": [
+        "code"
+      ]
+    },
+    {
+      "login": "wareeshak999",
+      "name": "wareeshak999",
+      "avatar_url": "https://avatars3.githubusercontent.com/u/72753730?v=4",
+      "profile": "https://github.com/wareeshak999",
+      "contributions": [
+        "code"
+      ]
+    },
+    {
+      "login": "mohsin-code",
+      "name": "Mohsin",
+      "avatar_url": "https://avatars3.githubusercontent.com/u/59390499?v=4",
+      "profile": "https://github.com/mohsin-code",
+      "contributions": [
+        "code"
+      ]
+    },
+    {
+      "login": "Wisal9",
+      "name": "Wisal Mukhtiar",
+      "avatar_url": "https://avatars2.githubusercontent.com/u/73090888?v=4",
+      "profile": "https://github.com/Wisal9",
+      "contributions": [
+        "code"
+      ]
+    },
+    {
+      "login": "HasnainAhmedKhan",
+      "name": "Hasnain Ahmed Khan",
+      "avatar_url": "https://avatars2.githubusercontent.com/u/73159324?v=4",
+      "profile": "https://github.com/HasnainAhmedKhan",
+      "contributions": [
+        "code"
+      ]
+    },
+    {
+      "login": "yaseen589",
+      "name": "Yaseen Irshad",
+      "avatar_url": "https://avatars0.githubusercontent.com/u/73169435?v=4",
+      "profile": "https://github.com/yaseen589",
+      "contributions": [
+        "code"
+      ]
+    },
+    {
+      "login": "SkyFakhar",
+      "name": "SkyFakhar",
+      "avatar_url": "https://avatars3.githubusercontent.com/u/64864541?v=4",
+      "profile": "https://github.com/SkyFakhar",
+      "contributions": [
+        "code"
+      ]
+    },
+    {
+      "login": "laibasaeed",
+      "name": "laibasaeed",
+      "avatar_url": "https://avatars3.githubusercontent.com/u/72753527?v=4",
+      "profile": "https://github.com/laibasaeed",
+      "contributions": [
+        "code"
+      ]
+    },
+    {
+      "login": "SyedShaafBanoori",
+      "name": "SyedShaafBanoori",
+      "avatar_url": "https://avatars2.githubusercontent.com/u/73127434?v=4",
+      "profile": "https://github.com/SyedShaafBanoori",
+      "contributions": [
+        "code"
+      ]
+    },
+    {
+      "login": "tubahh",
+      "name": "tubahh",
+      "avatar_url": "https://avatars0.githubusercontent.com/u/73132360?v=4",
+      "profile": "https://github.com/tubahh",
+      "contributions": [
+        "code"
+      ]
+    },
+    {
+      "login": "AbdulMajid1m1",
+      "name": "Abdul Majid",
+      "avatar_url": "https://avatars3.githubusercontent.com/u/73154985?v=4",
+      "profile": "https://github.com/AbdulMajid1m1",
+      "contributions": [
+        "code"
+      ]
+    },
+    {
+      "login": "Sineen101",
+      "name": "Sineen_Saleem",
+      "avatar_url": "https://avatars3.githubusercontent.com/u/64282445?v=4",
+      "profile": "https://github.com/Sineen101",
+      "contributions": [
+        "code"
+      ]
+    }
+  ],
+  "contributorsPerLine": 7,
+  "projectName": "Hacktoberfest",
+  "projectOwner": "AhmedRaja1",
+  "repoType": "github",
+  "repoHost": "https://github.com",
+  "skipCi": true
+}

@@ -1,0 +1,159 @@
+
+{
+	margin: 0;
+	padding: 0;
+}
+body
+{
+	background-image: url(showroom.jpg);
+	height: 100vh;
+	background-size: cover;
+	background-position: center;
+}
+.main-nav 
+{    
+	list-style:none;
+
+	margin-top: 40px;
+	margin-left: 600px;
+}
+.main-nav li
+{
+	float: left;
+	padding-left: 20px;
+}
+
+.main-nav a
+{	
+	
+	color:white;
+	text-decoration:none;
+	font-family:"Roboto", sans-serif;
+	font-size:15px;
+	padding: 20px 10px;
+}
+
+.main-nav a:hover
+{
+	border: 1px solid white;
+
+}
+
+.logo img
+{
+	width: 150px;
+	height:auto;
+	float: left;
+
+}
+
+body
+{
+	font-family: monospace;
+}
+
+.row
+{
+	max-width: 1200px;
+	margin:auto;
+	color: black;
+
+}
+
+.name
+{
+	position:absolute;
+	width: 1200px;
+	margin-left: 0px;
+	margin-top: 0px;
+}
+
+h1
+{
+	color:black;
+	text-transform: uppercase;
+	font-size: 70px;
+	text-align: center;
+	margin-top: 100px;
+	margin-left: 30%;
+}
+
+.button 
+{
+	margin-top: 30px;
+	margin-left: 50%;
+}
+
+.btn
+{
+	border: 2px solid transparent;
+	padding: 15px 30px;
+	color: white;
+	text-decoration: none;
+	margin-right: 5px;
+	font-size: 20px;
+	text-transform: uppercase;
+
+}
+
+.btn-one:hover
+{
+	background-color: grey; 
+	font-family: "Roboto", sans-serif;
+}
+
+.btn-two:hover
+{
+	background-color: grey; 
+	font-family: "Roboto", sans-serif;
+}
+
+.log-in
+{
+	position: absolute;
+	top: 100px;
+	left: 50px;
+	box-sizing: border-box;
+	padding: 40px;
+	width: 300px;
+	margin: 5% auto;
+	background: fff;
+	color: #2f4f4f;
+}
+input[type="text"],
+input[type="password"]
+{
+	display: block;
+	box-sizing: border-box;
+	margin-bottom: 20px;
+	padding: 20px;
+	width: 220px;
+	height: 32px;
+	border: none;
+	outline: none;
+	border-bottom: 1px solid #aaa;
+	font-family: sans-serif;
+	font-weight: 400;
+	font-size: 15px;
+	transition: 0.2s ease;
+}
+input[type="submit"]
+{
+	
+	width: 120px;
+	height: 32px;
+	background: salmon;
+	border: none;
+	border-radius: 6px;
+	color: #fff;
+	font-family: sans-serif;
+	font-weight: 500;
+	text-transform: uppercase;
+	cursor: pointer;
+}
+.img-1 {
+	position:absolute;
+	top:600px;
+	left: 0px;
+	width: 320px;
+}

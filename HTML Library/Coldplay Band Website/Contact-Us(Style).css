@@ -1,0 +1,137 @@
+html,body{
+	margin:0;
+	padding: 0;
+	width: 100%;
+	
+}
+body{
+	width: 100%;
+	height: 100vh;
+	background: url(db58738391092a7d2b0a123a62dcd107.jpg);
+	background-repeat: no-repeat;
+	background size: cover;
+	display: table;
+	font-family: quicksand;
+}
+.nav{
+	position: fixed;
+	top: 0;
+	left:0;
+	margin:0;
+	padding: 0;
+	width: 100%;
+	height: 80px;
+	font-family: Verdana;
+	background-color: #000;
+	margin-top: 15px;
+	margin-bottom: 20px;
+	
+}
+.left{
+	float: left;
+}
+.left ul {
+	list-style: none;
+	padding: 1em 3em;
+}
+.left ul li{
+	display: inline-block;
+}
+.left ul li a{
+	text-decoration: none;
+	color:#fff;
+	font-weight:500;
+	padding: 8px 16px;
+	text-align: center;
+letter-spacing: 0.5px;
+}
+.left ul li a:hover{
+	background-color: #6912e0;
+	color: #fff;
+	transition: 0.8s ease;}
+.left li:nth-child(2) a{
+	border:1px Solid #fff;
+}
+
+
+.right{
+	float: right;
+}
+.right ul {
+	list-style: none;
+	padding: 1em 3em;
+}
+.right ul li{
+	display: inline-block;
+}
+.right ul li a{
+	text-decoration: none;
+	color: #fff;
+	text-align: center;
+	font-weight:500;
+	padding: 8px 16px;
+	letter-spacing: 0.5px;
+}
+.right ul li a:hover{
+	background-color: #6912e0;
+	color: #fff;
+	transition: 0.8s ease;}
+
+.header {
+
+	position: absolute; 
+	top: 30%;
+	left: 50%;
+	transform: translate(-80%,-50%);
+	
+}
+.header h1{
+	color: #fff;
+	font-size:50px;
+	font-family: Calibri;
+}
+.header p{
+	color: #fff;
+	font-family: verdana;
+	font-size: 30px;
+	margin-bottom: 100px;
+}
+.form {
+	position: absolute;
+	top: 60%;
+	left:50%;
+	transform: translate(-60%,-50%);
+	text-align: center;
+	color: #01d7a7;
+}
+input{
+	width: 100%;
+	margin: 20px 0;
+	background: rgba(0,0,0,0);
+	border:none;
+	border-bottom: 1px Solid #0078ff;
+}
+
+#msg {
+	margin-top: 60px;
+}
+
+::-webkit-input-placeholder {
+	color: #EAEAEA;
+	font-size: 12px;
+	letter-spacing: 2px;
+}
+ button{
+ 	padding: 20px 32px;
+ 	font-size: 16px;
+ 	background:#0078ff;
+ 	border:none;
+ 	border-radius:4px;
+ 	margin-top: 30px; 
+ 	color:#fff;
+ }
+button hover{
+background-color: #0078ff;
+	color: #fff;
+	transition: 0.8s ease;
+}
