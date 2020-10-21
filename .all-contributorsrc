@@ -196,6 +196,15 @@
       "contributions": [
         "code"
       ]
+    },
+    {
+      "login": "ShahSomething",
+      "name": "Shah Raza",
+      "avatar_url": "https://avatars0.githubusercontent.com/u/63047096?v=4",
+      "profile": "https://github.com/ShahSomething",
+      "contributions": [
+        "code"
+      ]
     }
   ],
   "contributorsPerLine": 7,
