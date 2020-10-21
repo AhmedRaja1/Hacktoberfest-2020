@@ -2,21 +2,18 @@
 using namespace std;
 int main()
 {
-	int u_input ;
-	int amount = 0 ;
-	int count = 0 ;
-	int r = 0 ;
-	int c = 0 ;
-	int b = 0 ;
+	int u_input,amount = 0,count = 0,r = 0,c = 0,b = 0 ;
+	cout<<"Welcome to Shaaf Car Parking System\n";
+	cout<<"Choose your vehicle type from given list\n";
 	
 	while(true)
 	{
-	cout<<"Press 1 for Rickshaw. "<<endl;
-	cout<<"Press 2 for Car. "<<endl;
-	cout<<"Press 3 for Bus. "<<endl;
-	cout<<"Press 4 to show the record. "<<endl;
-	cout<<"Press 5 to delete the record. "<<endl;
-	
+	cout<<"1) Rickshaw. "<<endl;
+	cout<<"2) Car. "<<endl;
+	cout<<"3) Bus. "<<endl;
+	cout<<"4) show the record. "<<endl;
+	cout<<"5) Delete the record. "<<endl;
+	cout<<"\noption = ";
 	cin>>u_input;
 	
 	if(u_input == 1)
