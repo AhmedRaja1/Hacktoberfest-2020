@@ -56,6 +56,6 @@ This project follows the [all-contributors](https://github.com/all-contributors/
 
 ## Important!
 # 🙏نہ چھیڑملنگاں نوں
-4- Se Zaayid PR Bhejnay Waalay pe Jurmaana Aaid Kiya Jaaye Ga! 
+### چار سے زائد بھیجنے والے کے خلاف قانونی کاروائی کی جائے گی۔   
 
-### BaHukam: Admin😎
+### 😎
