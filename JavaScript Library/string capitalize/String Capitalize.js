@@ -1,3 +1,5 @@
 const capitalizeString = str => str.toUpperCase()
-const result = capitalizeString("Wareesha");
+var name=prompt("Enter your name");
+const result = capitalizeString(name);
+alert(result);
 console.log(result);
