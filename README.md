@@ -54,8 +54,4 @@
 This project follows the [all-contributors](https://github.com/all-contributors/all-contributors) specification. Contributions of any kind welcome!
 
 
-## Important!
-# 🙏نہ چھیڑملنگاں نوں
-## چار سے زائد پل ریکویسٹس بھیجنے والے کے خلاف قانونی کاروائی کی جائے گی۔  
 
-### 😎 بحکم ایڈمن
