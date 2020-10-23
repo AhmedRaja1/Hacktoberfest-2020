@@ -1,45 +1,46 @@
+// Guess Number Game
 #include <iostream>
-
-using namespace std;
+#include <string>
+#include <random>
+#include <ctime>
 
 int main()
 {
-    int AN=40,GN;
-    //AN actual number while GN is guessed number
-    cout<<"ThIS PROGRAM IS A GUESS NUMBER GAME";
-
-    cout << "\n GUESS A NUMBER" << endl;
-    tryagain:
-    cin>>GN;
-
-    if (GN > AN & GN >= 45  )
+    srand(time(0));
+    int actualNum = rand() % 100, guessedNum;
+    
+    // Welcome the player
+    std::cout << "Welcome to the Guess Number Land!" << std::endl;
+    std::cout << "Guess the number b/w 0-100 to win the game, you have 10 lives\n" << std::endl;
+  
+    // game part
+    int livesLeft = 10;
+    while (true)
     {
-        if (GN > 40 & GN < 45)
-    {
-            cout<<" SO CLOSE!! GUESS A LIL BIT HIGHER";
+        std::cin >> guessedNum;
+        // validating input 
+        while (guessedNum > 100 || guessedNum < 0) {
+            std::cout << "[inputERROR] Please enter a number b/w 0 and 100" << std::endl;
+            std::cin >> guessedNum;
+        }
+        
+        // Logic
+        if (guessedNum == actualNum)
+        {
+            std::cout << "Woohoo! You have guessed the number right wiht " << livesLeft << " lives left!" << std::endl;
+            break;
+        }
+        else if (guessedNum < actualNum) {
+            std::cout << "Too Low!" << std::endl;
+        }
+        else std::cout << "Too High!" << std::endl;
+        
+        livesLeft--;   
+        if (livesLeft == 0) { 
+            std::cout << "You have run out of lives." << std::endl;
+                break;
+        }
     }
-    else
-    {
-           cout<<"\n GUESS A LOWER NUMBER";
-    }
-    goto tryagain;
-    else if (GN < AN)
-    {
-        cout<<"GUESS A  HIGHER NUMBER ";
-        goto tryagain;
-
-        if (GN <40 & GN >45 )
-    {
-            cout<<"SO CLOSE GUESS A LIL BIT LOWER";
-    }
-
-        goto tryagain;
-    }
-    else if (GN = AN)
-    {
-        cout<<"WOW YOU GUESSED RIGHT";
-        goto tryagain;
-    }
-    else
-    return 0;
+    reutrn 0;
 }
+
