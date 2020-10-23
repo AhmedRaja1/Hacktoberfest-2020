@@ -3,41 +3,42 @@
 #include <string>
 #include <random>
 #include <ctime>
-
+using namespace std;
 int main()
 {
     srand(time(0));
     int actualNum = rand() % 100, guessedNum;
     
     // Welcome the player
-    std::cout << "Welcome to the Guess Number Land!" << std::endl;
-    std::cout << "Guess the number b/w 0-100 to win the game, you have 10 lives\n" << std::endl;
+    cout << "Welcome to the Guess Number Land!" <<endl;
+    cout << "Guess the number b/w 0-100 to win the game, you have 10 lives\n" <<endl;
   
     // game part
     int livesLeft = 10;
     while (true)
     {
-        std::cin >> guessedNum;
+        cin >> guessedNum;
         // validating input 
         while (guessedNum > 100 || guessedNum < 0) {
-            std::cout << "[inputERROR] Please enter a number b/w 0 and 100" << std::endl;
-            std::cin >> guessedNum;
+            cout << "[inputERROR] Please enter a number b/w 0 and 100" <<endl;
+            cout<<"Value : ";
+            cin >> guessedNum;
         }
         
         // Logic
         if (guessedNum == actualNum)
         {
-            std::cout << "Woohoo! You have guessed the number right wiht " << livesLeft << " lives left!" << std::endl;
+            cout << "Woohoo! You have guessed the number right wiht " << livesLeft << " lives left!" <<endl;
             break;
         }
         else if (guessedNum < actualNum) {
-            std::cout << "Too Low!" << std::endl;
+            cout << "Too Low!" <<endl;
         }
-        else std::cout << "Too High!" << std::endl;
+        else cout << "Too High!" <<endl;
         
         livesLeft--;   
         if (livesLeft == 0) { 
-            std::cout << "You have run out of lives." << std::endl;
+            cout << "You have run out of lives." <<endl;
                 break;
         }
     }
