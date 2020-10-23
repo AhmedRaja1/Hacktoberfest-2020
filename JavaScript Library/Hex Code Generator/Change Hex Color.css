@@ -1,0 +1,33 @@
+body{
+    margin: 0;
+    padding: 0;
+    background-color: white;
+}
+
+section {
+    height: 100%;
+}
+
+.area {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+
+#btn {
+    padding: 10px;
+    border-color: black;
+    color: black;
+    background-color: white;
+    border-radius: 10px;
+    font-size: x-large;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    margin-top: 10px;
+}
+
+#btn:hover {
+    color: white;
+    background-color: black;
+    cursor: pointer;
+}
