@@ -1,0 +1,154 @@
+body {
+    font-family: 'Baloo Thambi', cursive;
+    color: rgb(10, 10, 12);
+    text-align: center;
+    font-size: 16px;
+    background-image: url("background.png");
+}
+.nav-bar {
+    height: 50px;
+    padding-top: 5px;
+    position: fixed;
+    top: 0;
+    background-color: rgb(49, 46, 46);
+    color: gray;
+    width: 100%;
+    z-index: 8;
+    border-bottom: 1px solid rgb(212, 212, 212);
+}
+.pull-left {
+    float: left;
+}
+body,div,ul,li,h1,h2,form,input,p{
+    margin: 0;
+    padding: 0;
+}
+a {
+    text-decoration: none;
+    color: grey;
+}
+.logo img {
+    height: 38px;
+    margin-left: 10px;
+}
+img {
+    vertical-align: middle;
+}
+.main-nav-links {
+    float: right;
+    margin-right: 5px;
+}
+#quick-search {
+    float: left;
+    margin-top: 5px;
+}
+#quick-search-container {
+    margin-right: 10px;
+}
+#quick-search-input {
+    width: 250px;
+    height: 35px;
+    font-size: .85em;
+    font-weight: 700;
+    color: #919191;
+    border: 2px solid #333;
+    border-radius: 20px;
+    padding: 4px 30px;
+}
+.nav-links {
+    padding-top: 15px;
+    display: inline-block;
+}
+.nav-links li {
+    display: inline;
+    margin-right: 20px;
+}
+li {
+    list-style: none;
+}
+.nav-links li a:hover {
+    color: black;
+}
+.home-content {
+    padding-top: 20px;
+    padding-bottom: 10px;
+}
+.container {
+    padding-left: 15px;
+    padding-right: 15px;
+    position: relative;
+    top: 40px;
+}
+.home-content h1 {
+    font-size: 2.75em;
+    font-weight: 700;
+    text-shadow: 0 2px 2px rgba(0,0,0,.4);
+    margin-top: 15px;
+    margin-bottom: 15px;
+}
+.home-content p {
+    font-size: 0.95em;
+    color: rgb(155, 148, 148);
+    width: 650px;
+    margin: 0 auto;
+    margin-bottom: 50px;
+}
+.row {
+    margin-left: 15px;
+    margin-right: 15px;
+}
+.home-content #Popular-shows h2 {
+    font-size: 1.75em;
+    font-weight: 700;
+    border-bottom: 1px solid rgb(73, 73, 73);
+    padding-bottom: 20px;
+    margin-bottom: 25px;
+}
+.tv-shows {
+    margin-bottom: 15px; 
+}
+.left {
+    float: left;
+}
+.left, .relative {
+    padding-left: 50px;
+    padding-right: 50px;
+    padding-top: 30px;
+}
+.show-link {
+    display: inline-block;
+    border: 5px solid rgb(145, 145, 145);
+    font-size: 24px;
+    border-radius: 4px;
+}
+.show-bottom {
+    padding: 0 5px;
+    text-align: left;
+    margin-bottom: 30px;
+}
+.show-title {
+    font-size: 0.85em;
+    color: rgb(145, 145, 145);
+    font-weight: 700;
+}
+.show-year {
+    font-size: 0.85em;
+    color: #919191;
+}
+
+a.fade:hover {
+    opacity: 0.8;
+}
+h2 {
+    color: darkslategray;
+}
+.footer {
+    padding-bottom: 15px;
+    margin-bottom: 15px;
+}
+.hr {
+    margin-top: 60px;
+}
+.video-player {
+    margin-top: 30px;
+}

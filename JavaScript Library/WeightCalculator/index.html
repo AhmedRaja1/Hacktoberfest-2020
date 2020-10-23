@@ -1,0 +1,90 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <title>Solar System: Document Object Model:30 Days Of JavaScript</title>
+    <link href="https://fonts.googleapis.com/css?family=Montserrat:300,400,500,600,700&display=swap" rel="stylesheet">
+
+    <style>
+        body{
+            background-image: url('./images/galaxy.gif');
+            text-align: center;
+            font-family: "Montserrat";
+            max-width: 1100px;
+            margin:0 auto;
+        }
+
+        h1{
+            font-size: 40px;
+            margin-top: 10px;
+           
+            color:white;
+        }
+        input{
+            margin:15px;
+            font-size: 24px;
+            padding: 10px;
+        }
+        select{
+            font-size: 24px;
+            padding:10px;
+            background-color: white;
+        }
+        button{
+            margin:15px;
+            font-size: 24px;
+            padding:10px;
+        }
+        .flex-container{
+            
+            background-color:rgba(255,255,255,0.2);
+            padding:30px 15px;
+        }
+        .flex-container .flex-item .image img{
+            width:400px;
+            height: 400px;
+        }
+    </style>
+
+</head>
+
+<body>
+    <header>
+        <h1>Calculate a weight of an object on a planet</h1>
+
+        <input type="text" id="mass" placeholder="Mass in Kilogram" />
+        <select>
+            <option value='none'>--select planet-- </option>
+            <option>Mercury</option>
+            <option>Venus</option>
+            <option>Earth</option>
+            <option>Mars</option>
+            <option>Jupiter</option>
+            <option>Saturn</option>
+            <option>Uranus</option>
+            <option>Neptune</option>
+            <option>Pluto</option>
+        </select>
+        <button>Calculate weight</button>
+
+    </header>
+    <main>
+        <div class="flex-container">
+            <div class="flex-item image">
+                <img src='./images/earth.png' class="planet-image" />
+            </div>
+            <div class="flex-item description"></div>
+
+        </div>
+
+
+    </main>
+
+
+
+
+
+    <script src="./scripts/main.js"></script>
+</body>
+
+</html>
