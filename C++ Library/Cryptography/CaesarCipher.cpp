@@ -7,6 +7,7 @@
 #include <string>
 
 using namespace std;   
+// ENCRYPTION MEHTOD
 string encrypt(string text, int shiftCount) 
 {
     // getting the key ready 
@@ -28,6 +29,26 @@ encText += keyText[alphabets.find(text[i])];
     
     // return the encrypted text 
     return encText;
+}
+
+// DECRYPTION METHOD
+string decrypt(string cipher, int key)
+{
+    string decText = "";
+    
+    for (unsigned int i = 0; i < cipher.length(); i++)
+    {
+        int asciiValue = int(cipher[i]);
+        if (asciiValue + key > 122)
+        {
+            int keyCopy = key;
+            while (asciiValue <= 122)
+            {keyCopy--; asciiValue++;}
+            
+            decText += char(97+keyCopy);
+        } else decText += char(asciiValue + key);      
+    }   
+    return decText;
 }
 
 // driver program
