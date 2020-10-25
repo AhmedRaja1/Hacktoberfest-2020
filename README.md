@@ -1,6 +1,6 @@
 # Hacktoberfest
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-33-orange.svg?style=flat-square)](#contributors-)
+[![All Contributors](https://img.shields.io/badge/all_contributors-34-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 
 ![Code For Good](https://raw.githubusercontent.com/AhmedRaja1/Hacktoberfest/main/Creative%20Graphic%20Design%20Content/code-for-good.png)
@@ -56,6 +56,7 @@
     <td align="center"><a href="http://aspectspro.com"><img src="https://avatars1.githubusercontent.com/u/60023398?v=4" width="100px;" alt=""/><br /><sub><b>Aspects Pro</b></sub></a><br /><a href="https://github.com/AhmedRaja1/Hacktoberfest/commits?author=aspectspro" title="Code">💻</a></td>
     <td align="center"><a href="http://www.uetpeshawar.edu.pk/"><img src="https://avatars2.githubusercontent.com/u/65843597?v=4" width="100px;" alt=""/><br /><sub><b>UET Peshawar Github Handles</b></sub></a><br /><a href="#design-UETPeshawarGitHubHandles" title="Design">🎨</a></td>
     <td align="center"><a href="https://github.com/Hina-softwareEngineer"><img src="https://avatars2.githubusercontent.com/u/56507951?v=4" width="100px;" alt=""/><br /><sub><b>HINA KHADIM</b></sub></a><br /><a href="https://github.com/AhmedRaja1/Hacktoberfest/commits?author=Hina-softwareEngineer" title="Code">💻</a></td>
+    <td align="center"><a href="https://github.com/Abhishek-Jain-5"><img src="https://avatars0.githubusercontent.com/u/73082139?v=4" width="100px;" alt=""/><br /><sub><b>Abhishek-Jain-5</b></sub></a><br /><a href="https://github.com/AhmedRaja1/Hacktoberfest/commits?author=Abhishek-Jain-5" title="Code">💻</a></td>
   </tr>
 </table>
 
