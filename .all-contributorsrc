@@ -250,6 +250,15 @@
       "contributions": [
         "code"
       ]
+    },
+    {
+      "login": "Steellow",
+      "name": "Hannes Kinnunen",
+      "avatar_url": "https://avatars3.githubusercontent.com/u/20144380?v=4",
+      "profile": "http://hanki.dev",
+      "contributions": [
+        "code"
+      ]
     }
   ],
   "contributorsPerLine": 7,
