@@ -1,6 +1,6 @@
 # Hacktoberfest
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-26-orange.svg?style=flat-square)](#contributors-)
+[![All Contributors](https://img.shields.io/badge/all_contributors-27-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 
 ![Code For Good](https://raw.githubusercontent.com/AhmedRaja1/Hacktoberfest/main/Creative%20Graphic%20Design%20Content/code-for-good.png)
@@ -47,6 +47,7 @@
     <td align="center"><a href="https://github.com/IqraSwati"><img src="https://avatars3.githubusercontent.com/u/73309388?v=4" width="100px;" alt=""/><br /><sub><b>IqraSwati</b></sub></a><br /><a href="https://github.com/AhmedRaja1/Hacktoberfest/commits?author=IqraSwati" title="Code">💻</a></td>
     <td align="center"><a href="https://github.com/HamzaMateen"><img src="https://avatars1.githubusercontent.com/u/43349591?v=4" width="100px;" alt=""/><br /><sub><b>Hamza Mateen</b></sub></a><br /><a href="https://github.com/AhmedRaja1/Hacktoberfest/commits?author=HamzaMateen" title="Code">💻</a></td>
     <td align="center"><a href="https://github.com/Maxhar30"><img src="https://avatars1.githubusercontent.com/u/42507791?v=4" width="100px;" alt=""/><br /><sub><b>Mazhar Hussain</b></sub></a><br /><a href="https://github.com/AhmedRaja1/Hacktoberfest/commits?author=Maxhar30" title="Code">💻</a></td>
+    <td align="center"><a href="https://github.com/zarakk"><img src="https://avatars0.githubusercontent.com/u/52151884?v=4" width="100px;" alt=""/><br /><sub><b>zarakk</b></sub></a><br /><a href="https://github.com/AhmedRaja1/Hacktoberfest/commits?author=zarakk" title="Code">💻</a></td>
   </tr>
 </table>
 
