@@ -1,6 +1,6 @@
 # Hacktoberfest
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-29-orange.svg?style=flat-square)](#contributors-)
+[![All Contributors](https://img.shields.io/badge/all_contributors-30-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 
 ![Code For Good](https://raw.githubusercontent.com/AhmedRaja1/Hacktoberfest/main/Creative%20Graphic%20Design%20Content/code-for-good.png)
@@ -52,6 +52,7 @@
   </tr>
   <tr>
     <td align="center"><a href="https://github.com/zeeshanmahar007"><img src="https://avatars2.githubusercontent.com/u/50893618?v=4" width="100px;" alt=""/><br /><sub><b>Mahar zeeshan</b></sub></a><br /><a href="https://github.com/AhmedRaja1/Hacktoberfest/commits?author=zeeshanmahar007" title="Code">💻</a></td>
+    <td align="center"><a href="https://github.com/sultanrif"><img src="https://avatars2.githubusercontent.com/u/73010596?v=4" width="100px;" alt=""/><br /><sub><b>Sultan</b></sub></a><br /><a href="https://github.com/AhmedRaja1/Hacktoberfest/commits?author=sultanrif" title="Code">💻</a></td>
   </tr>
 </table>
 
