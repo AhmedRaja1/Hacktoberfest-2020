@@ -277,6 +277,15 @@
       "contributions": [
         "code"
       ]
+    },
+    {
+      "login": "aspectspro",
+      "name": "Aspects Pro",
+      "avatar_url": "https://avatars1.githubusercontent.com/u/60023398?v=4",
+      "profile": "http://aspectspro.com",
+      "contributions": [
+        "code"
+      ]
     }
   ],
   "contributorsPerLine": 7,
