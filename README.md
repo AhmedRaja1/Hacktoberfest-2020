@@ -1,6 +1,6 @@
 # Hacktoberfest
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-28-orange.svg?style=flat-square)](#contributors-)
+[![All Contributors](https://img.shields.io/badge/all_contributors-29-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 
 ![Code For Good](https://raw.githubusercontent.com/AhmedRaja1/Hacktoberfest/main/Creative%20Graphic%20Design%20Content/code-for-good.png)
@@ -49,6 +49,9 @@
     <td align="center"><a href="https://github.com/Maxhar30"><img src="https://avatars1.githubusercontent.com/u/42507791?v=4" width="100px;" alt=""/><br /><sub><b>Mazhar Hussain</b></sub></a><br /><a href="https://github.com/AhmedRaja1/Hacktoberfest/commits?author=Maxhar30" title="Code">💻</a></td>
     <td align="center"><a href="https://github.com/zarakk"><img src="https://avatars0.githubusercontent.com/u/52151884?v=4" width="100px;" alt=""/><br /><sub><b>zarakk</b></sub></a><br /><a href="https://github.com/AhmedRaja1/Hacktoberfest/commits?author=zarakk" title="Code">💻</a></td>
     <td align="center"><a href="http://hanki.dev"><img src="https://avatars3.githubusercontent.com/u/20144380?v=4" width="100px;" alt=""/><br /><sub><b>Hannes Kinnunen</b></sub></a><br /><a href="https://github.com/AhmedRaja1/Hacktoberfest/commits?author=Steellow" title="Code">💻</a></td>
+  </tr>
+  <tr>
+    <td align="center"><a href="https://github.com/zeeshanmahar007"><img src="https://avatars2.githubusercontent.com/u/50893618?v=4" width="100px;" alt=""/><br /><sub><b>Mahar zeeshan</b></sub></a><br /><a href="https://github.com/AhmedRaja1/Hacktoberfest/commits?author=zeeshanmahar007" title="Code">💻</a></td>
   </tr>
 </table>
 
