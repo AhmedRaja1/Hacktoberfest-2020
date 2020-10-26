@@ -41,6 +41,6 @@ int main()
                 break;
         }
     }
-    reutrn 0;
+    return 0;
 }
 

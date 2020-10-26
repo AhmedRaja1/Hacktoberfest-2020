@@ -40,17 +40,11 @@ string decrypt(string cipher, int key)
     {
         int asciiValue = int(cipher[i]);
         if (asciiValue + key > 122)
-        {
-            int keyCopy = key;
-            while (asciiValue <= 122)
-            {keyCopy--; asciiValue++;}
-            
-            decText += char(97+keyCopy);
-        } else decText += char(asciiValue + key);      
+            decText += char((key + asciiValue)-26);
+        else decText += char(asciiValue + key);      
     }   
     return decText;
 }
-
 // driver program
 int main()
 {
