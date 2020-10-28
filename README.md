@@ -1,6 +1,6 @@
 # Hacktoberfest
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-35-orange.svg?style=flat-square)](#contributors-)
+[![All Contributors](https://img.shields.io/badge/all_contributors-36-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 
 ![Code For Good](https://raw.githubusercontent.com/AhmedRaja1/Hacktoberfest/main/Creative%20Graphic%20Design%20Content/code-for-good.png)
@@ -58,6 +58,9 @@
     <td align="center"><a href="https://github.com/Hina-softwareEngineer"><img src="https://avatars2.githubusercontent.com/u/56507951?v=4" width="100px;" alt=""/><br /><sub><b>HINA KHADIM</b></sub></a><br /><a href="https://github.com/AhmedRaja1/Hacktoberfest/commits?author=Hina-softwareEngineer" title="Code">💻</a></td>
     <td align="center"><a href="https://github.com/Abhishek-Jain-5"><img src="https://avatars0.githubusercontent.com/u/73082139?v=4" width="100px;" alt=""/><br /><sub><b>Abhishek-Jain-5</b></sub></a><br /><a href="https://github.com/AhmedRaja1/Hacktoberfest/commits?author=Abhishek-Jain-5" title="Code">💻</a></td>
     <td align="center"><a href="https://allcontributors.org"><img src="https://avatars1.githubusercontent.com/u/46410174?v=4" width="100px;" alt=""/><br /><sub><b>All Contributors</b></sub></a><br /><a href="#design-all-contributors" title="Design">🎨</a></td>
+  </tr>
+  <tr>
+    <td align="center"><a href="https://github.com/LaibaMemon"><img src="https://avatars3.githubusercontent.com/u/49434426?v=4" width="100px;" alt=""/><br /><sub><b>LaibaMemon</b></sub></a><br /><a href="https://github.com/AhmedRaja1/Hacktoberfest/commits?author=LaibaMemon" title="Code">💻</a></td>
   </tr>
 </table>
 
