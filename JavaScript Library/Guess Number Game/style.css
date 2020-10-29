@@ -1,0 +1,155 @@
+.jumbotron {
+    /* background-image:  url("https://i.giphy.com/media/l0IyeG4i4L6f9Jk5O/giphy.webp"); */
+    height: 100vh;
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.game_content {
+    margin: auto;
+    text-align: center;
+    font-family: 'Roboto', sans-serif;
+}
+.game_title_section  {
+    margin: 0 auto;
+    padding-top: 2vh;
+}
+.game_intro {
+    margin: 2vh auto;
+    font-size: 1.75rem;
+}
+#guess_input {
+    margin: 3vh auto;
+    max-width: 300px;
+    text-align: center;
+    border: 3px solid #ced4da;
+    height: 60px;
+    font-size: 26px;
+}
+#guess_input::-webkit-inner-spin-button, 
+#guess_input::-webkit-outer-spin-button { 
+  -webkit-appearance: none; 
+  margin: 0; 
+}
+#submitButton {
+    width: 250px;
+    border: none;
+}
+.game_title {
+    font-size: 1rem;
+    margin: auto 10%;
+}
+#responsive_div {
+    font-size: 0.8rem;
+    margin: 2vh 10%;
+}
+.press_enter_p {
+    margin-top: -20px;
+}
+.game_spots {
+    position: relative;
+    margin: 5vh auto;
+    height: 20px;
+    width: 20px;
+    /* background-color: rgb(0, 153, 255);
+    border-radius: 50%;
+    border: solid 3px black; */
+}
+.game_spots img {
+    position: absolute;
+    max-height: 100px;
+    top: 0;
+    right: 0;
+}
+.game_won {
+    position: relative;
+
+}
+.game_won img {
+    margin-bottom: -35px;
+    margin-right: 5px;
+    position: absolute;
+    max-width: 100px;
+    bottom: 0;
+    right: 0;
+    z-index: 1;
+}
+/* FOR LATER JQUERY OPTIMIZATION */
+/* .hot {
+    background-color: #ba0000;
+}
+.warm {
+    background-color: #e84700;
+}
+.luke_warm {
+    background-color: #e88800;
+}
+.cold {
+    background-color: #3bcde7;
+}
+.freezing {
+    background-color: #a3effd;
+} */
+#waves {
+    margin:0;
+    width: 100%;
+    height: 50px;
+    background-color: deepskyblue;
+}
+
+#restart_button {
+    display: block;
+    margin: 40px auto;
+    width: 250px;
+}
+#happy_pirates {
+    width: 100%;
+}
+/* BOAT ANIMATION */
+@keyframes swing {
+    0%, 100% { transform: rotate(-10deg); }
+    20% {transform:scale(.95);}
+    50% { transform: rotate(10deg); }
+    80% {transform:scale(.95);}
+  }
+  .game_spots {
+    animation: swing 5s infinite ease-in-out;
+  }
+#music {
+    position: absolute;
+    top: 10px;
+    margin-left: auto;
+    margin-right: auto;
+    left: 0;
+    right: 0;
+}
+/* MEDIA QUERY SECTION */
+/* .game_title */
+@media (min-width: 320px) {
+    .game_title { font-size: 1.5rem; }
+}
+@media (min-width: 768px) {
+    .game_title { font-size: 2.0rem; }
+}
+@media (min-width: 992px) {
+    .game_title { font-size: 2.5rem; }
+}
+@media (min-width: 1200px) {
+    .game_title { font-size: 2.75rem; }
+}
+/* #responsive_div */
+@media (min-width: 320px) {
+    #responsive_div { font-size: 0.75rem; }
+}
+@media (min-width: 768px) {
+    #responsive_div { font-size: 1.0rem; }
+}
+@media (min-width: 992px) {
+    #responsive_div { font-size: 1.5rem; }
+}
+@media (min-width: 1200px) {
+    #responsive_div { font-size: 1.75rem; }
+}
