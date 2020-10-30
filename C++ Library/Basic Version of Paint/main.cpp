@@ -1,8 +1,8 @@
 #include "SFML\Graphics.hpp"
 #include <iostream>
 #include <vector>
-
-int main()
+// Including the graphics input out system and vector libraries
+int main()//calling the main function
 {
 
     std::vector<sf::VertexArray> vertices; // vector in wich all vertexArrays will be stored
