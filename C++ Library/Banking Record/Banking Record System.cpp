@@ -1,6 +1,7 @@
 #include<iostream>
 #include<fstream>
 #include<cstdlib>
+//Including the essential libraries
 using std::cout;
 using std::cin;
 using std::endl;
@@ -8,6 +9,10 @@ using std::fstream;
 using std::ofstream;
 using std::ifstream;
 using std::ios;
+//Using the standard output method like input output file system
+
+
+//Class for this account
 class account_query
 {
 private:
@@ -15,7 +20,7 @@ private:
     char firstName[10];
     char lastName[10];
     float total_Balance;
-public:
+public:  //initialising a class for the account
     void read_data();
     void show_data();
     void write_rec();
@@ -24,6 +29,7 @@ public:
     void edit_rec();
     void delete_rec();
 };
+
 void account_query::read_data()
 {
     cout<<"\nEnter Account Number: ";
@@ -36,6 +42,7 @@ void account_query::read_data()
     cin>>total_Balance;
     cout<<endl;
 }
+
 void account_query::show_data()
 {
     cout<<"Account Number: "<<account_number<<endl;
@@ -52,6 +59,7 @@ void account_query::write_rec()
     outfile.write(reinterpret_cast<char *>(this), sizeof(*this));
     outfile.close();
 }
+//Function for query and edit the file
 void account_query::read_rec()
 {
     ifstream infile;
@@ -71,7 +79,8 @@ void account_query::read_rec()
     }
     infile.close();
 }
-void account_query::search_rec()
+
+void account_query::search_rec() //function for search
 {
     int n;
     ifstream infile;
@@ -89,7 +98,9 @@ void account_query::search_rec()
     infile.seekg((n-1)*sizeof(*this));
     infile.read(reinterpret_cast<char*>(this), sizeof(*this));
     show_data();
-}
+}//Function for search
+
+//Function for editing
 void account_query::edit_rec()
 {
     int n;
@@ -116,6 +127,8 @@ void account_query::edit_rec()
     read_data();
     iofile.write(reinterpret_cast<char*>(this), sizeof(*this));
 }
+
+//Function for delete action
 void account_query::delete_rec()
 {
     int n;
@@ -146,6 +159,8 @@ void account_query::delete_rec()
     remove("record.bank");
     rename("tmpfile.bank", "record.bank");
 }
+
+//Main function in initialisation
 int main()
 {
     account_query A;
@@ -162,7 +177,7 @@ int main()
         cout<<"\n\t6-->Quit";
         cout<<"\nEnter your choice: ";
         cin>>choice;
-        switch(choice)
+        switch(choice) //with switch calling the functions when necessary
         {
         case 1:
             A.write_rec();
@@ -190,3 +205,4 @@ int main()
     system("pause");
     return 0;
 }
+//
