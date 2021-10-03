@@ -1,6 +1,6 @@
 # Hacktoberfest
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-42-orange.svg?style=flat-square)](#contributors-)
+[![All Contributors](https://img.shields.io/badge/all_contributors-45-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 
 ![Code For Good](https://raw.githubusercontent.com/AhmedRaja1/Hacktoberfest/main/Creative%20Graphic%20Design%20Content/code-for-good.png)
@@ -67,6 +67,11 @@
     <td align="center"><a href="https://github.com/FarrukhAdeel67"><img src="https://avatars.githubusercontent.com/u/81711287?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Farrukh Adeel</b></sub></a><br /><a href="https://github.com/AhmedRaja1/Hacktoberfest/commits?author=FarrukhAdeel67" title="Code">💻</a></td>
     <td align="center"><a href="https://github.com/SudaisAlam"><img src="https://avatars.githubusercontent.com/u/75487595?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Sudais Alam</b></sub></a><br /><a href="https://github.com/AhmedRaja1/Hacktoberfest/commits?author=SudaisAlam" title="Code">💻</a></td>
     <td align="center"><a href="https://wisalmalik.github.io/protfolio/"><img src="https://avatars.githubusercontent.com/u/72118640?v=4?s=100" width="100px;" alt=""/><br /><sub><b>wisal_malik </b></sub></a><br /><a href="https://github.com/AhmedRaja1/Hacktoberfest/commits?author=wisalmalik" title="Code">💻</a></td>
+  </tr>
+  <tr>
+    <td align="center"><a href="https://github.com/vasanthnaik"><img src="https://avatars.githubusercontent.com/u/76811492?v=4?s=100" width="100px;" alt=""/><br /><sub><b>vasanthnaik</b></sub></a><br /><a href="https://github.com/AhmedRaja1/Hacktoberfest/commits?author=vasanthnaik" title="Code">💻</a></td>
+    <td align="center"><a href="https://nishchay17.netlify.com/"><img src="https://avatars.githubusercontent.com/u/48904113?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Nishchay</b></sub></a><br /><a href="https://github.com/AhmedRaja1/Hacktoberfest/commits?author=nishchay17" title="Code">💻</a></td>
+    <td align="center"><a href="https://github.com/mthakur7"><img src="https://avatars.githubusercontent.com/u/89182004?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Manju Thakur</b></sub></a><br /><a href="https://github.com/AhmedRaja1/Hacktoberfest/commits?author=mthakur7" title="Code">💻</a></td>
   </tr>
 </table>
 
