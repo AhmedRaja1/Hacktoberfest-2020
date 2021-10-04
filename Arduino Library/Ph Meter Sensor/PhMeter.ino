@@ -2,23 +2,17 @@
 unsigned long int avgValue;  //Store the average value of the sensor feedback
 float b;
 int buf[10],temp;
-
-
-
 int redLed = 2;
 int smokeA0 = A5;
-// Your threshold value
 int sensorThres = 400;
-
+int another_pin=13;
  
 void setup()
 {
-  pinMode(redLed, OUTPUT);
-  pinMode(smokeA0, INPUT);
-  
-  pinMode(13,OUTPUT);  
   Serial.begin(9600);  
-  Serial.println("Ready");    //Test the serial monitor
+  pinMode(redLed, OUTPUT);
+  pinMode(smokeA0, INPUT);  
+  pinMode(another_pin,OUTPUT);  
 }
 void loop()
 {
@@ -36,9 +30,6 @@ void loop()
     digitalWrite(redLed, HIGH);
   }
   delay(100);
-
-
-
   
   for(int i=0;i<10;i++)       //Get 10 sample value from the sensor for smooth the value
   { 
@@ -63,8 +54,7 @@ void loop()
   float phValue=(float)avgValue*5.0/1024/6; //convert the analog into millivolt
   phValue=3.5*phValue;                      //convert the millivolt into pH value
   Serial.print("    pH:");  
-  Serial.print(phValue,2);
-  Serial.println(" ");
+  Serial.println(phValue,2);
   digitalWrite(13, HIGH);       
   delay(800);
   digitalWrite(13, LOW); 
