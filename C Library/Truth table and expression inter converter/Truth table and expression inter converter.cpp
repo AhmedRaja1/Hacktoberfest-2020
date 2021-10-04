@@ -8,16 +8,14 @@ int cal2exp(int n);
 
 int main() {
 	
-	cout<<"Welcome to our Digital Converter!"<<endl<<endl;
-	cout<<"Enter T to convert Boolean Expression into Truth Table \nEnter E to convert Truth Table into Boolean Expression: ";
+	cout<<"Welcome to our Digital Converter! \nEnter T to convert Boolean Expression into Truth Table \nEnter E to convert Truth Table into Boolean Expression: ";
 	string entr;
 	cin>>entr;
-	cout<<endl<<endl;
+	cout<<"\n\n";
 
 	if(entr == "T")
 	{
-		bool A[4] = { 0,0,1,1 };	
-		bool B[4] = { 0,1,0,1 };
+		bool A[4] = { 0,0,1,1 } , B[4] = { 0,1,0,1 };
 
 		cout << "Do you want to AND or OR the two propositional variables?" << endl;
 		string andor;	
