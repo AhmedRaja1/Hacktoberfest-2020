@@ -1,6 +1,6 @@
 # Hacktoberfest
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-46-orange.svg?style=flat-square)](#contributors-)
+[![All Contributors](https://img.shields.io/badge/all_contributors-47-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 
 ![Code For Good](https://raw.githubusercontent.com/AhmedRaja1/Hacktoberfest/main/Creative%20Graphic%20Design%20Content/code-for-good.png)
@@ -73,6 +73,7 @@
     <td align="center"><a href="https://nishchay17.netlify.com/"><img src="https://avatars.githubusercontent.com/u/48904113?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Nishchay</b></sub></a><br /><a href="https://github.com/AhmedRaja1/Hacktoberfest/commits?author=nishchay17" title="Code">💻</a></td>
     <td align="center"><a href="https://github.com/mthakur7"><img src="https://avatars.githubusercontent.com/u/89182004?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Manju Thakur</b></sub></a><br /><a href="https://github.com/AhmedRaja1/Hacktoberfest/commits?author=mthakur7" title="Code">💻</a></td>
     <td align="center"><a href="https://github.com/TheAnton205"><img src="https://avatars.githubusercontent.com/u/33186076?v=4?s=100" width="100px;" alt=""/><br /><sub><b>TheAnton205</b></sub></a><br /><a href="https://github.com/AhmedRaja1/Hacktoberfest/commits?author=TheAnton205" title="Code">💻</a></td>
+    <td align="center"><a href="https://stackoverflow.com/users/6212113/pabodha-wimalasuriya"><img src="https://avatars.githubusercontent.com/u/8191412?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Pabodha Wimalasuriya</b></sub></a><br /><a href="https://github.com/AhmedRaja1/Hacktoberfest/commits?author=PBWim" title="Code">💻</a></td>
   </tr>
 </table>
 
