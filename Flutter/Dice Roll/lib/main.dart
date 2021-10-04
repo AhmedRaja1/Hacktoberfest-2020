@@ -1,4 +1,3 @@
-//import 'package:flutter/foundation.dart';
 import 'dart:math';
 import 'package:flutter/material.dart';
 
@@ -28,7 +27,7 @@ class _DicePageState extends State<DicePage> {
   @override
   var left = Random().nextInt(6) + 1;
   var right = Random().nextInt(6) + 1;
-  void doit() {
+  void roll_the_dices() {
     left = Random().nextInt(6) + 1;
     right = Random().nextInt(6) + 1;
   }
@@ -36,16 +35,14 @@ class _DicePageState extends State<DicePage> {
   Widget build(BuildContext context) {
     return Center(
       child: Row(
-//      mainAxisAlignment: MainAxisAlignment.spaceEvenly,
         children: <Widget>[
           Expanded(
             flex: 2,
             child: FlatButton(
               onPressed: () {
                 setState(() {
-                  doit();
+                  roll_the_dices();
                 });
-                print('Left Button Pressed');
               },
               child: Image(
                 image: AssetImage('images/dice$left.png'),
@@ -58,9 +55,8 @@ class _DicePageState extends State<DicePage> {
             child: FlatButton(
               onPressed: () {
                 setState(() {
-                  doit();
+                  roll_the_dices();
                 });
-                print('Right Button Pressed');
               },
               child: Image(
                 color: Colors.black,
@@ -73,4 +69,3 @@ class _DicePageState extends State<DicePage> {
     );
   }
 }
-//class DicePage extends StatelessWidget {}
