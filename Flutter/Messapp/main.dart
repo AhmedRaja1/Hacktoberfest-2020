@@ -41,10 +41,7 @@ class _WelcomePageState extends State<WelcomePage> {
   @override
     void initState(){
       super.initState();
-      Future.delayed(Duration(seconds:5),(){
         Navigator.pushNamed(context, 'LoginPage');
-      }
-      );
     }
 
   @override
@@ -56,12 +53,6 @@ class _WelcomePageState extends State<WelcomePage> {
         color: Colors.deepPurple[200],
         child: Stack(
         children: <Widget>[
-         // Align( 
-         //   alignment: Alignment.bottomRight, widthFactor: 0.6,heightFactor: 0.6,
-         //   child: Material(borderRadius: BorderRadius.all(Radius.circular(200.0),),
-         //   color: Colors.deepPurple[100],
-         //   child: Container( width: 400,height: 400, ),),),
-         
            Center(
           child: Container(
             width: 400,
