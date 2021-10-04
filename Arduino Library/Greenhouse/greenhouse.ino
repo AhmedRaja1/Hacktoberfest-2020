@@ -53,29 +53,6 @@ data1 = digitalRead(mq2);
 }
 
 
-//void notifyOnFire()
-//{
-  //int isButtonPressed = digitalRead(D1);
-//  if (isButtonPressed==1 && flag==0) 
-  
- // {
-   // Blynk.virtualWrite(V3, data);
-    //Serial.println("Fire in the House");
-   /// Blynk.notify("Alert : Fire in the House");
-  //  digitalWrite(D2, HIGH);
-    //Serial.println("Alarm On");
-  //  delay(8000);
-//    flag=1;
- // }
- // else if (isButtonPressed==0)
-//  {
-//    flag=0;
-  //     digitalWrite(D2, LOW);
-//  Serial.println("Alarm Off");
-//  }
-//}
-
-
 int LED = D7; // Define LED as an Integer (whole numbers) and pin D7 on Wemos D1 Mini Pro
 const int sensorPin = D4; 
 int sensorState = 0;
@@ -168,7 +145,6 @@ void loop()
  timerx.run();
  timerz.run();
 
-
    if (Serial.available() == 0 ) 
    {
   Blynk.run();
@@ -195,8 +171,8 @@ Serial.println(sensorState);
 
 if (sensorState == 1 && lastState == 0) {
   digitalWrite(LED, HIGH);
-  Serial.println("needs water, send notification");
-  Blynk.notify("Water your plants");
+  Serial.println("water is required, send notification");
+  Blynk.notify("Water your plants !!!");
   lastState = 1;
   delay(1000);
 //send notification
