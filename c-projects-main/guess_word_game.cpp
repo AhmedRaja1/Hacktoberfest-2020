@@ -38,9 +38,9 @@ if(guess_word==entrWord){
 cout<<"You Win"<<endl;
 }
 else if(guess_word!=entrWord){
-cout<<"\n Try again"<<endl;
+cout<<"\nTry again, Best of luck\n";
 cin>>entrWord;
-cout<<"\n You lose"<<endl;
+cout<<"\nYou lost\n";
 }
 }
 return 0;
