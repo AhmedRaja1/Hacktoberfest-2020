@@ -1,14 +1,7 @@
 int xValue = 0 ; // read value of the X axis  
 int yValue = 0 ; // read value of the Y axis  
 int bValue = 0 ; // value of the button reading 
-int buttonState = 0;
-int lastButtonState = 0;
-int motor1pin1 = 2;
-int motor1pin2 = 3;
-
-int motor2pin1 = 4;
-int motor2pin2 = 5;
-
+int buttonState = 0,lastButtonState = 0,motor1pin1 = 2,motor1pin2 = 3,motor2pin1 = 4,motor2pin2 = 5;
 
 void setup()  
 { 
