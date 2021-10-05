@@ -1,7 +1,7 @@
 ### Please do star the repo! ⭐
 # Hacktoberfest
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-48-orange.svg?style=flat-square)](#contributors-)
+[![All Contributors](https://img.shields.io/badge/all_contributors-49-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 
 ![Code For Good](https://raw.githubusercontent.com/AhmedRaja1/Hacktoberfest/main/Creative%20Graphic%20Design%20Content/code-for-good.png)
@@ -76,6 +76,7 @@
     <td align="center"><a href="https://github.com/TheAnton205"><img src="https://avatars.githubusercontent.com/u/33186076?v=4?s=100" width="100px;" alt=""/><br /><sub><b>TheAnton205</b></sub></a><br /><a href="https://github.com/AhmedRaja1/Hacktoberfest/commits?author=TheAnton205" title="Code">💻</a></td>
     <td align="center"><a href="https://stackoverflow.com/users/6212113/pabodha-wimalasuriya"><img src="https://avatars.githubusercontent.com/u/8191412?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Pabodha Wimalasuriya</b></sub></a><br /><a href="https://github.com/AhmedRaja1/Hacktoberfest/commits?author=PBWim" title="Code">💻</a></td>
     <td align="center"><a href="https://github.com/agungd3v"><img src="https://avatars.githubusercontent.com/u/63272845?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Agung Ardiyanto</b></sub></a><br /><a href="https://github.com/AhmedRaja1/Hacktoberfest/commits?author=agungd3v" title="Code">💻</a></td>
+    <td align="center"><a href="https://github.com/sukhwal13"><img src="https://avatars.githubusercontent.com/u/37433303?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Abhishek Sukhwal</b></sub></a><br /><a href="https://github.com/AhmedRaja1/Hacktoberfest/commits?author=sukhwal13" title="Code">💻</a></td>
   </tr>
 </table>
 
