@@ -1,0 +1,63 @@
+
+<!-- saved from url=(0040)http://127.0.0.1:55873/lab%2011%20p.html -->
+<html>
+    <head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+    
+    <title>My Calculator</title>
+    </head>
+    
+    <body style="background-color: black">
+        <br>
+        <div align="center">
+        <h1><center>My Calculator</center></h1>
+        <br>
+        <form style="color: aliceblue">
+            
+             <label><b>
+                 Number1</b></label><label style="padding-left: 130px" ;=""><b>sign</b></label><label style="padding-left: 130px" ;=""><b>Number2</b></label><br>
+            </form>
+                <input type="number" id="num1">
+                <input type="text" id="sign">
+                <input type="number" id="num2">
+            <br><pre></pre>
+            <input type="button" onclick="calculate()" value="calculate">
+        
+        
+       <br> 
+        <h2 id="result" style="color: aliceblue"><h1>Answer:</h1> <br> your calculated value = 2</h2>
+            
+        <script>
+        
+        function calculate(){
+            
+            var first,second,sign;
+            
+            first=Number(document.getElementById('num1').value);
+            second=Number(document.getElementById('num2').value);
+            sign=String(document.getElementById('sign').value);
+            
+            if(sign=="+"){
+                (document.getElementById('result').innerHTML= "<h1>Answer:</h1> <br/> your calculated value = "+(first+second))
+            }
+            else if(sign=="-"){
+                (document.getElementById('result').innerHTML="<h1>Answer:</h1> <br/> your calculated value = "+(first-second))
+            }
+            else if(sign=="*"){
+                (document.getElementById('result').innerHTML="<h1>Answer:</h1> <br/> your calculated value = "+(first*second))
+                
+            }
+            else if(sign=="/"){
+                (document.getElementById('result').innerHTML=" <h1>Answer:</h1> <br/> your calculated value = "+(first/second))
+            }
+            else{
+                resultantVar=(document.getElementById('result').innerHTML="<h1>Answer:</h1> <br/> you can not put anything other than +,-,* and /")
+            }
+        }
+        
+        
+        
+        </script>
+        </div>
+    
+    
+</body></html>
