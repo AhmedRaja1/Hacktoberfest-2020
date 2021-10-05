@@ -1,7 +1,7 @@
 ### Please do star the repo! ⭐
 # Hacktoberfest
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-50-orange.svg?style=flat-square)](#contributors-)
+[![All Contributors](https://img.shields.io/badge/all_contributors-51-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 
 ![Code For Good](https://raw.githubusercontent.com/AhmedRaja1/Hacktoberfest/main/Creative%20Graphic%20Design%20Content/code-for-good.png)
@@ -80,6 +80,7 @@
   </tr>
   <tr>
     <td align="center"><a href="http://abd-ar.github.io"><img src="https://avatars.githubusercontent.com/u/87899654?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Abd</b></sub></a><br /><a href="https://github.com/AhmedRaja1/Hacktoberfest/commits?author=abd-ar" title="Code">💻</a></td>
+    <td align="center"><a href="https://linktr.ee/hikmatresume.com"><img src="https://avatars.githubusercontent.com/u/89774623?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Hikmat Ullah</b></sub></a><br /><a href="https://github.com/AhmedRaja1/Hacktoberfest/commits?author=Hikmee" title="Code">💻</a></td>
   </tr>
 </table>
 
