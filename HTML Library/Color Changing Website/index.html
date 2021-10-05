@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="shortcut icon" href="logo.png" type="image/x-icon">
+    <link rel="stylesheet" href="styles.css">
+    <title>Abd</title>
+</head>
+<body>
+    <section class="sec">
+        <header>
+            <a href=""><img src="logo.png" class="logo"></a>
+            <ul>
+                <li><a href="#">Home</a></li>
+            </ul>
+        </header>
+
+        <div class="content">
+            <div class="textBox">
+                <h2>Coming Soon<br><span></span></h2>
+                <p></p>
+                <a href="https://github.com/abd-ar">Github Link</a>
+            </div>
+                <div class="imgBox">
+                    <img src="not-found.png" class="main">
+                </div>
+            </div>
+        </div>
+        <ul class="thumb">
+            <li><img src="blue.png" onclick="imgSlider('not-found.png');changebgColor('#0062be')"></li>
+            <li><img src="Red.png" onclick="imgSlider('not-found.png');changebgColor('#e60c2c')"></li>
+            <li><img src="black.png" onclick="imgSlider('not-found.png');changebgColor('#1e1e1e')"></li>
+        </ul>
+        <ul class="sci">
+            <li><a href="#"><img src="facebook.png"></a></li>
+            <li><a href="#"><img src="instagram.png"></a></li>
+            <li><a href="#"><img src="twitter.png"></a></li>
+        </ul>
+    </section>
+    <script type="text/javascript">
+    function imgSlider (anything){
+        document.querySelector('.main').src = anything
+    }
+    function changebgColor(color){
+        const sec = document.querySelector('.sec');
+        sec.style.background = color;
+    }
+    </script>
+</body>
+</html>
