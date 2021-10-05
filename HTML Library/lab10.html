@@ -1,0 +1,60 @@
+<html>
+
+<head>
+    
+    <title>my Biodata</title>
+    
+</head>
+
+<body align="center" bgcolor="black">
+    
+    
+    <h1 style="color:saddlebrown" ><B> <center>Biodata</center></B></h1>
+    <form style="color: aliceblue">
+        <lable style="padding-right: 30"; >Name:</lable><input  for="name" type="text" placeholder="Enter your name" id="name"><pre></pre>
+        <br>
+        <label style="padding-right: 30";>User Name:</label><input for="text" type="text" placeholder="Enter user name" id="username"><pre></pre>
+        <br>
+        <label style="padding-right: 30";>Reg Number:</label><input for="text" type="text" placeholder="Enter regestration number" id="regnumber"><pre></pre>
+        <br>
+        <lable style="padding-right: 30";>Contact Number:</lable><input for="phone" type="number" placeholder="Enter contact number" id="contactnumber"><pre></pre>
+        <br>
+        <lable style="padding-right: 30">Passward:</lable><input for="passward" type="password" placeholder="Enter passward" id="passward" required><pre></pre>
+        <br>
+        <lable style="padding-right: 30";>Gender:</lable><select><option>Male</option><option>Female</option><option>Other</option></select>
+        <br><pre></pre>
+        <lable style="padding-right: 30";>Course:</lable><lable>computer Fundamental</lable><input type="checkbox"><br>
+        <lable style="padding-left: 70";>Computer Fundamental Lab</lable><input type="checkbox" ><pre></pre>
+        <br><pre></pre>
+        <lable>Is the course easy</lable><input type="radio">
+        
+             
+    
+    </form>
+
+    
+        <p id="result" style="color: aliceblue"></p>
+        
+    <input type="button" value="Click here to submit" onclick="biodata()">
+    
+        <script>
+        function biodata()
+            {
+             var first = document.getElementById("name").value;
+            var second = document.getElementById("username").value;
+                var third = document.getElementById("regnumber").value;
+                var fourth = document.getElementById("contactnumber").value;
+                var fifth = document.getElementById("passward").value;
+                
+           document.getElementById("result").innerHTML="<h1>your submitted Biodata is</h1><br>Your Name :" +first+"<br>User Name :"+second+"<br>Reg Number :"+third+"<br>Contact Number :"+fourth+"<br>Your Passward :"+fifth;
+             
+            
+            }
+        </script>
+    
+    
+    
+</body>
+
+
+</html>
