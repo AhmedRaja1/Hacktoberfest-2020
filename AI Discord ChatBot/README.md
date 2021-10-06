@@ -1,4 +1,4 @@
-# Build a Discord AI Chatbot that Speaks like Your Favorite Character!
+# Discord AI Chatbot that Speaks like Your Favorite Character!
 
 
 This is a Discord AI Chatbot that uses the [Microsoft DialoGPT conversational model](https://huggingface.co/microsoft/DialoGPT-medium)
@@ -6,11 +6,11 @@ This is a Discord AI Chatbot that uses the [Microsoft DialoGPT conversational mo
 
 Here is a demo of the Discord bot in action.
 
-<img src="" width=500><br>
+<img src="https://github.com/Hamas-ur-Rehman/Hacktoberfest/blob/main/AI%20Discord%20ChatBot/resources/2gif2.gif?raw=true" width=500><br>
 
 You can also directly chat with the model hosted on [Hugging Face's Model Hub](https://huggingface.co/Hamas/DialoGPT-large-jake2).
 
-<img src="" width=400><br>
+<img src="https://github.com/Hamas-ur-Rehman/Hacktoberfest/blob/main/AI%20Discord%20ChatBot/resources/1ezgif.com-gif-maker.gif?raw=true" width=400><br>
 
 ## Structure of this Project
 
