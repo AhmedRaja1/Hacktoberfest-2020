@@ -1,0 +1,20 @@
+{
+	"name": "Ahmed's Screen Time Utility",
+	"version": "1.0",
+	"description": "A simple utlility to avoid excessive screen times",
+	"manifest_version": 2,
+	"browser_action": {
+		"default_popup": "popup.html"
+	},
+	"background": {
+    "scripts": ["background.js"],
+    "persistent": true
+  },
+	"content_scripts": [
+    {
+      "matches": ["<all_urls>"],
+      "js": ["content.js"],
+      "css": ["content.css"]
+    }
+  ]
+}
