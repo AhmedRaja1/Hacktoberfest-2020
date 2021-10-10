@@ -475,6 +475,15 @@
       "contributions": [
         "code"
       ]
+    },
+    {
+      "login": "Hamas-ur-Rehman",
+      "name": "Hamas Ur Rehman",
+      "avatar_url": "https://avatars.githubusercontent.com/u/47780362?v=4",
+      "profile": "https://hamas-ur-rehman.github.io/webportfolio/",
+      "contributions": [
+        "code"
+      ]
     }
   ],
   "contributorsPerLine": 7,
