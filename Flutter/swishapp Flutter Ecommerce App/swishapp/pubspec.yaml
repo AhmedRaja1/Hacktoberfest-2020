@@ -1,0 +1,67 @@
+name: swishapp
+description: A new Flutter project.
+
+publish_to: "none" # Remove this line if you wish to publish to pub.dev
+
+version: 1.0.0+1
+
+environment:
+  sdk: ">=2.7.0 <3.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+  bubble_bottom_bar: ^1.2.0
+  carousel_pro: ^1.0.0
+  carousel_slider: ^3.0.0
+  circular_check_box: ^1.0.4
+  cloud_firestore: ^2.2.0
+  cupertino_icons: ^1.0.2
+  custom_clippers: ^1.0.0
+  fancy_bottom_navigation: ^0.3.3
+  finite_coverflow: ^1.0.0
+  firebase_auth: ^1.2.0
+  firebase_core: ^1.2.0
+  flutter_staggered_grid_view: ^0.3.4
+  flutter_swiper: ^1.1.6
+  flutter_vector_icons: ^1.0.0
+  fluttertoast: ^8.0.7
+  font_awesome_flutter: ^9.0.0
+  google_fonts: ^2.0.0
+  grouped_list: ^4.0.0
+  line_icons: ^2.0.1
+  smooth_star_rating: ^1.1.1
+  textfield_tags: ^1.1.1
+  vader_flutter: ^1.1.1
+  validators: ^3.0.0
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+  flutter_native_splash: ^1.1.5+1
+
+flutter_native_splash:
+  color: "EF0808"
+  image: "assets/log/splash.png"
+  android: true
+  ios: true
+
+flutter:
+  uses-material-design: true
+
+  assets:
+    - assets/img/
+    - assets/images/
+    - assets/gird4/
+    - assets/log/
+    - assets/images/wallet.jpg
+
+  fonts:
+    - family: Muli
+      fonts:
+        - asset: assets/fonts/muli/Muli.ttf
+        - asset: assets/fonts/muli/Muli-Bold.ttf
+          weight: 700
+        - asset: assets/fonts/muli/Muli-Light.ttf
+          weight: 300
