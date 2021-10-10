@@ -1,0 +1,32 @@
+body{
+    background: linear-gradient(90deg, #7b4397, #dc2430);  
+}
+
+#container{
+    position: absolute;
+    height: 80%;
+    width: 40%;
+    top: 10%;
+    left: 30%;
+    text-align: center;
+    border: 5px solid mintcream;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: space-around;
+}
+
+button{
+    width: 300px;
+    height: 70px;
+    outline: none;
+}
+
+p{
+    color: mintcream;
+    font-size: 38px;
+}
+
+h1{
+  color: mintcream;
+}
