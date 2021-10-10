@@ -3,8 +3,6 @@
 #include<fstream>
 #include<cstdlib>
 #include<conio.h>
-#include<time.h>
-#include<iomanip>
 
 using namespace std;
 int main()
@@ -13,14 +11,9 @@ int main()
 
 {
 char fname[20];
-time_t rawtime;
-struct tm * timeinfo;
-
-time ( &rawtime );
-timeinfo = localtime ( &rawtime );
 
 //printing the welcome note
-re:
+
 cout<<"\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\t\t\t\t\t*********************************************************************************************\n";										   
 cout<<"\t\t\t\t\t*********************************************************************************************\n";
 cout<<"\t\t\t\t\t** _______________________________________________________________________________________ **\n";
@@ -38,7 +31,7 @@ cout<<"\t\t\t\t\t**|                                                            
 cout<<"\t\t\t\t\t**|                                                                                       |**\n";
 cout<<"\t\t\t\t\t**|                                                                                       |**\n";
 cout<<"\t\t\t\t\t**|                                                                                       |**\n";
-cout<<"\t\t\t\t\t**|                                                                                       |**\n";
+cout<<"\t\t\t\t\t**|                                 -Brought To You by Tayyaba 2nd Semester, Section 'C'  |**\n";
 cout<<"\t\t\t\t\t**|_______________________________________________________________________________________|**\n";
 cout<<"\t\t\t\t\t*********************************************************************************************\n";
 cout<<"\t\t\t\t\t*********************************************************************************************\n";
@@ -97,12 +90,6 @@ if(i==4)
 //Adding the record of the new patient..................option 3
 if(i==1)
 {
-  time_t rawtime;
-  struct tm * timeinfo;
-
-  time ( &rawtime );
-  timeinfo = localtime ( &rawtime );
-  cout<<"\n\n\t\t\t\t\t\t\t\t"<< asctime (timeinfo);
   ofstream pat_file;
   char fname[20];
   cout<<"\n\n\n\nEnter the patient's file name : ";
@@ -128,7 +115,7 @@ if(i==1)
                         };
 
             patient_info ak;
-            cout<<"\n********************************************************************\n";pat_file<<"\n********************************************************************\n\n";//fn1353 st
+            cout<<"\n********************************************************************\n";pat_file<<"\n********************************************************************\n\n";
             cout<<"\nPatient ID : ";pat_file<<"Patient ID : ";gets(ak.id);pat_file<<ak.id<<"\n";
 		  cout<<"\nName : ";pat_file<<"Name : ";gets(ak.name);pat_file<<ak.name<<"\n";
             cout<<"\nAddress : ";pat_file<<"Address : ";gets(ak.address);pat_file<<ak.address<<"\n";
@@ -172,13 +159,13 @@ if(i==2)
 			pat_file.close();
 			pat_file.open(fname, ios::out | ios::app);
             cout<<"\n";
-			cout<<"Adding more information in patient's file................on : "<<asctime (timeinfo);pat_file<<"Description of "<<asctime (timeinfo)<<"\n";
+			cout<<"Adding more information in patient's file................ : "<<"\n";
                             struct app
                             {
                                 char symptom[500];
                                 char diagnosis[500];
                                 char medicine[500];
-                                char addmission[30];
+                                char addmission[2];
                                 char ward[15];
                             };
             app add;
@@ -186,8 +173,12 @@ if(i==2)
             cout<<"\nDiagnosis : "; pat_file<<"Diagnosis : ";gets(add.diagnosis); pat_file<<add.diagnosis<<"\n";
             cout<<"\nMedicines : "; pat_file<<"Medicines : ";gets(add.medicine); pat_file<<add.medicine<<"\n";
             cout<<"\nAddmission Required? : "; pat_file<<"Addmission Required? : ";gets(add.addmission); pat_file<<add.addmission<<"\n";
-            cout<<"\nType of ward : "; pat_file<<"Type of ward : ";gets(add.ward); pat_file<<add.ward<<"\n";pat_file<<"\n*************************************************************************\n";
+            if(add.addmission != "no")
+            {
+		  cout<<"\nType of ward : "; pat_file<<"Type of ward : ";gets(add.ward); pat_file<<add.ward<<"\n";pat_file<<"\n*************************************************************************\n";
             cout<<"\n\n"<<add.ward<<" ward is alloted Successfully\n";
+		  }
+            
 			pat_file.close();
 			cout<<"\n\n";
 			system("pause");
@@ -255,20 +246,36 @@ cout<<"\n";
 }
 
 int login(){
-   string pass ="";
+   string pass = "";
    char ch;
    cout<<"\n\n\n\n\n\n\n\n\n\n\n\n\t\t\t\t\t\t\t\t  HOSPITAL MANAGEMENT SYSTEM \n\n";
    cout<<"\t\t\t\t\t\t\t\t------------------------------";
    cout<<"\n\t\t\t\t\t\t\t\t\t     LOGIN \n";	
    cout<<"\t\t\t\t\t\t\t\t------------------------------\n\n";	
-   cout << "\t\t\t\t\t\t\t\tEnter Password: ";
+   cout << "\t\t\t\t\tEnter Password: ";
    ch = _getch();
-   while(ch != 13){//character 13 is enter
-      pass.push_back(ch);
-      cout << '*';
+   int i = 0;
+   while(ch != 13){ //character 13 is enter
+      if(ch!=8)  {
+      	pass.push_back(ch);
+      	cout<<"*";
+      	i++;
+      }
+    else {
+    	if(i!=0) {
+    		i--;
+    		pass.erase(i);
+    		cout<<"\b \b";
+		}
+	}
       ch = _getch();
    }
-   if(pass == "pass"){
+   ifstream f;
+   f.open("password.txt", ios::in);
+   string passOfFile;
+   getline(f, passOfFile);
+   f.close();
+   if(pass == passOfFile){
       cout << "\n\n\t\t\t\t\t\t\t\tAccess Granted! \n";
       system("PAUSE");
       system ("CLS");
@@ -279,4 +286,5 @@ int login(){
       login();
    }
 }
+
 
