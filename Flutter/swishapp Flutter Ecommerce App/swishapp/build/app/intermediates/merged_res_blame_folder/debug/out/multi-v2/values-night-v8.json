@@ -1,0 +1,28 @@
+{
+    "logs": [
+        {
+            "outputFile": "D:\\Projects\\flutter\\swishapp\\swishapp\\build\\app\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-night-v8\\values-night-v8.xml",
+            "map": [
+                {
+                    "source": "D:\\Projects\\flutter\\swishapp\\swishapp\\android\\app\\src\\main\\res\\values-night\\styles.xml",
+                    "from": {
+                        "startLines": "3,15",
+                        "startColumns": "4,4",
+                        "startOffsets": "172,880",
+                        "endLines": "8,17",
+                        "endColumns": "12,12",
+                        "endOffsets": "524,1044"
+                    },
+                    "to": {
+                        "startLines": "2,8",
+                        "startColumns": "4,4",
+                        "startOffsets": "55,411",
+                        "endLines": "7,10",
+                        "endColumns": "12,12",
+                        "endOffsets": "406,575"
+                    }
+                }
+            ]
+        }
+    ]
+}
