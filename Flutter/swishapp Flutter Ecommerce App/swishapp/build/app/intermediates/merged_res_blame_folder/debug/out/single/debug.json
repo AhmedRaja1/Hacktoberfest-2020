@@ -1,0 +1,58 @@
+[
+    {
+        "merged": "D:\\Projects\\flutter\\swishapp\\swishapp\\build\\app\\intermediates\\res\\merged\\debug\\drawable-v21_background.png.flat",
+        "source": "D:\\Projects\\flutter\\swishapp\\swishapp\\android\\app\\src\\main\\res\\drawable-v21\\background.png"
+    },
+    {
+        "merged": "D:\\Projects\\flutter\\swishapp\\swishapp\\build\\app\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "D:\\Projects\\flutter\\swishapp\\swishapp\\android\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\Projects\\flutter\\swishapp\\swishapp\\build\\app\\intermediates\\res\\merged\\debug\\drawable-mdpi_splash.png.flat",
+        "source": "D:\\Projects\\flutter\\swishapp\\swishapp\\android\\app\\src\\main\\res\\drawable-mdpi\\splash.png"
+    },
+    {
+        "merged": "D:\\Projects\\flutter\\swishapp\\swishapp\\build\\app\\intermediates\\res\\merged\\debug\\drawable_background.png.flat",
+        "source": "D:\\Projects\\flutter\\swishapp\\swishapp\\android\\app\\src\\main\\res\\drawable\\background.png"
+    },
+    {
+        "merged": "D:\\Projects\\flutter\\swishapp\\swishapp\\build\\app\\intermediates\\res\\merged\\debug\\drawable-v21_launch_background.xml.flat",
+        "source": "D:\\Projects\\flutter\\swishapp\\swishapp\\android\\app\\src\\main\\res\\drawable-v21\\launch_background.xml"
+    },
+    {
+        "merged": "D:\\Projects\\flutter\\swishapp\\swishapp\\build\\app\\intermediates\\res\\merged\\debug\\drawable_launch_background.xml.flat",
+        "source": "D:\\Projects\\flutter\\swishapp\\swishapp\\android\\app\\src\\main\\res\\drawable\\launch_background.xml"
+    },
+    {
+        "merged": "D:\\Projects\\flutter\\swishapp\\swishapp\\build\\app\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_splash.png.flat",
+        "source": "D:\\Projects\\flutter\\swishapp\\swishapp\\android\\app\\src\\main\\res\\drawable-xxhdpi\\splash.png"
+    },
+    {
+        "merged": "D:\\Projects\\flutter\\swishapp\\swishapp\\build\\app\\intermediates\\res\\merged\\debug\\drawable-hdpi_splash.png.flat",
+        "source": "D:\\Projects\\flutter\\swishapp\\swishapp\\android\\app\\src\\main\\res\\drawable-hdpi\\splash.png"
+    },
+    {
+        "merged": "D:\\Projects\\flutter\\swishapp\\swishapp\\build\\app\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher.png.flat",
+        "source": "D:\\Projects\\flutter\\swishapp\\swishapp\\android\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\Projects\\flutter\\swishapp\\swishapp\\build\\app\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "D:\\Projects\\flutter\\swishapp\\swishapp\\android\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\Projects\\flutter\\swishapp\\swishapp\\build\\app\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "D:\\Projects\\flutter\\swishapp\\swishapp\\android\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\Projects\\flutter\\swishapp\\swishapp\\build\\app\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher.png.flat",
+        "source": "D:\\Projects\\flutter\\swishapp\\swishapp\\android\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\Projects\\flutter\\swishapp\\swishapp\\build\\app\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_splash.png.flat",
+        "source": "D:\\Projects\\flutter\\swishapp\\swishapp\\android\\app\\src\\main\\res\\drawable-xxxhdpi\\splash.png"
+    },
+    {
+        "merged": "D:\\Projects\\flutter\\swishapp\\swishapp\\build\\app\\intermediates\\res\\merged\\debug\\drawable-xhdpi_splash.png.flat",
+        "source": "D:\\Projects\\flutter\\swishapp\\swishapp\\android\\app\\src\\main\\res\\drawable-xhdpi\\splash.png"
+    }
+]
