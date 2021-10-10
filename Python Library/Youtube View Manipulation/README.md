@@ -47,3 +47,6 @@ while i != 5000:
     i=i+1
     pyautogui.hotkey("alt","F4")
 ```
+## Video Tutorial
+<a href="https://youtu.be/M75P3XE8KDk">![image](https://user-images.githubusercontent.com/47780362/136695525-94db200c-bbe7-465b-85d2-0b8ebdd6753d.png)
+<a>
