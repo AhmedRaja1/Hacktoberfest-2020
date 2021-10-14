@@ -1,0 +1,51 @@
+<html>
+<head>
+<title>Calculator</title>
+</head>
+</style>
+<body> <div align="center">
+<h1>My Calculator</h1>
+<label style="padding-right: 100px;"> Number 1</label>
+<label style="padding-right: 130px;"> Symbol</label>
+<label> Number 2</label>
+
+<form>
+    <input type="text" id="value1" name="value1">
+    <input type="text" id="sign" name="sign">
+    <input type="text" id="value2" name="value2">
+    <br/>
+    <input type="button" value="calculate" name="result" onclick="calculate()">
+</form>
+<br>
+
+
+<script>
+ const calculate =() => {
+ var value1, value2, result, sign;
+
+ value1=Number(document.getElementById("value1").value);
+ value2=Number(document.getElementById("value2").value);
+ sign=(document.getElementById("sign").value);
+
+
+ if(sign =="+") {
+  result= (document.getElementById("result").innerHTML= "result" + (value1+value2));
+ }
+ else if(sign =="-") {
+ result= (document.getElementById("result").innerHTML=value1-value2);
+ }
+ else if(sign =="/") {
+  result= (document.getElementById("result").innerHTML=value1/value2);
+ }
+ else if(sign =="*") {
+  result= (document.getElementById("result").innerHTML="Your Calculated value is: " + (value1*value2));
+ }else {
+  result = document.getElementById("result").innerHTML = "Your Enter The wrong Symbol";
+ }
+
+ }
+</script>
+<h3 id="result"></h3>
+</div>
+</body>
+</html>
