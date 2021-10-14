@@ -2,21 +2,7 @@
 # Hacktoberfest
 
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-56-orange.svg?style=flat-square)](#contributors-) [![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://GitHub.com/Naereen/StrapDown.js/graphs/commit-activity) ![Maintainer](https://img.shields.io/badge/maintainer-AhmedRaja1-blue) [![GitHub license](https://img.shields.io/github/license/Naereen/StrapDown.js.svg)](https://github.com/Naereen/StrapDown.js/blob/master/LICENSE) [![Sparkline](https://stars.medv.io/Naereen/badges.svg)](https://stars.medv.io/Naereen/badges) 
-
-</br>
-
-[![forthebadge](https://forthebadge.com/images/badges/open-source.svg)](https://forthebadge.com) ![image](https://user-images.githubusercontent.com/47780362/136705483-14066b31-4c97-4b7f-8a5e-2c864ad0e097.png) [![forthebadge made-with-python](http://ForTheBadge.com/images/badges/made-with-python.svg)](https://www.python.org/) [![forthebadge](https://forthebadge.com/images/badges/uses-css.svg)](https://forthebadge.com) ![image](https://user-images.githubusercontent.com/47780362/136705685-bc3ebe7c-70bc-4875-9ddc-fbf801f1b15b.png) [![forthebadge](https://forthebadge.com/images/badges/made-with-java.svg)](https://forthebadge.com) ![image](https://user-images.githubusercontent.com/47780362/136705770-6e695a0d-b66b-40cd-9c62-e8b74c70027c.png) [![forthebadge](https://forthebadge.com/images/badges/made-with-c-plus-plus.svg)](https://forthebadge.com)  [![forthebadge](https://forthebadge.com/images/badges/uses-html.svg)](https://forthebadge.com) [![forthebadge](https://forthebadge.com/images/badges/made-with-markdown.svg)](https://forthebadge.com) [![forthebadge](https://forthebadge.com/images/badges/made-with-c-sharp.svg)](https://forthebadge.com) [![forthebadge](https://forthebadge.com/images/badges/made-with-c.svg)](https://forthebadge.com) ![image](https://user-images.githubusercontent.com/47780362/136705924-917dd300-a508-4097-a780-b584869daf38.png) [![forthebadge](https://forthebadge.com/images/badges/made-with-javascript.svg)](https://forthebadge.com) [![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://forthebadge.com) ![image](https://user-images.githubusercontent.com/47780362/136705958-cde3d036-51d0-4486-8101-2a5c866c0325.png) [![forthebadge](https://forthebadge.com/images/badges/made-with-ruby.svg)](https://forthebadge.com) ![image](https://user-images.githubusercontent.com/47780362/136706028-bf1915e0-9c26-41fe-8b0c-b5e151f35596.png) ![image](https://user-images.githubusercontent.com/47780362/136706055-8aa00dc3-4571-4c8c-8325-044cbd5b4191.png) ![image](https://user-images.githubusercontent.com/47780362/136706099-1bbec70c-6d56-4741-b7ea-6faeef2b9e14.png) [![ForTheBadge built-by-developers](http://ForTheBadge.com/images/badges/built-by-developers.svg)](https://GitHub.com/Naereen/)
-[![ForTheBadge built-with-swag](http://ForTheBadge.com/images/badges/built-with-swag.svg)](https://GitHub.com/Naereen/)
-
-
-
-![Hacktoberfest_final_2color-11 copy](https://user-images.githubusercontent.com/47780362/136704776-35e9df3c-b260-4e61-8aea-6567cbf1883e.png)
-
-
-
-
-
+[![All Contributors](https://img.shields.io/badge/all_contributors-57-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 
 ![Code For Good](https://raw.githubusercontent.com/AhmedRaja1/Hacktoberfest/main/Creative%20Graphic%20Design%20Content/code-for-good.png)
@@ -101,6 +87,9 @@
     <td align="center"><a href="https://github.com/Aleksej222"><img src="https://avatars.githubusercontent.com/u/71986056?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Aleksej222</b></sub></a><br /><a href="https://github.com/AhmedRaja1/Hacktoberfest/commits?author=Aleksej222" title="Code">💻</a></td>
     <td align="center"><a href="https://github.com/himanshutiwariji"><img src="https://avatars.githubusercontent.com/u/83914028?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Himanshu Tiwari</b></sub></a><br /><a href="https://github.com/AhmedRaja1/Hacktoberfest/commits?author=himanshutiwariji" title="Code">💻</a></td>
     <td align="center"><a href="https://medium.com/@abhinavjha98ald/my-journey-towards-pwa-f12696103123"><img src="https://avatars.githubusercontent.com/u/34500576?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Abhinav Jha</b></sub></a><br /><a href="https://github.com/AhmedRaja1/Hacktoberfest/commits?author=abhinavjha98" title="Code">💻</a></td>
+  </tr>
+  <tr>
+    <td align="center"><a href="https://github.com/EngineerSaqlain"><img src="https://avatars.githubusercontent.com/u/92431771?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Engnr Saqlain Ahmad</b></sub></a><br /><a href="https://github.com/AhmedRaja1/Hacktoberfest/commits?author=EngineerSaqlain" title="Code">💻</a></td>
   </tr>
 </table>
 
