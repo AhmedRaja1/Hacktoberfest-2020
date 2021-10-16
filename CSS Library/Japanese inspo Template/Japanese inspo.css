@@ -1,0 +1,80 @@
+body
+{
+    
+    background: rgb(255,191,253);
+    background: linear-gradient(to  top left, rgba(255,191,253,1) , rgba(108,211,252,1) , rgba(255,255,255,1)); 
+}
+
+.top-nav
+{
+    display: flex;
+    background-color:  rgba(0, 0, 0, 0.1);
+    overflow: hidden;
+    height: 10px 10px;
+    justify-content: center;
+}
+.top-nav a
+{
+    padding: 20px;
+    color:white;
+    text-shadow: 0 0 16px #ffffff;
+    text-decoration: none;
+    filter: blur(0.5px);
+}
+.top-nav a:hover
+{
+    color: black;
+    background: linear-gradient(-60deg,rgba(108,211,252,1),rgb(214, 37, 214) );
+    filter: blur(0);
+    animation: hover 1s ease;
+}
+
+@keyframes hover
+{
+    0%
+    {
+        transform: rotateZ(180deg);
+    }
+}
+
+.images
+{
+    
+    display: flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+   
+}
+
+.images img
+{
+    margin: 25px;
+    border-radius: 30px;
+    filter: blur(1.5px);
+    -webkit-box-reflect:  10px below black;
+}
+.images img:hover
+{
+    filter: blur(0);
+    box-shadow: 0 0 30px black;
+    animation: img-hover 3s ease-out ;
+}
+@keyframes img-hover {
+    0%
+    {
+        transform: rotateY(180deg);
+    }
+}
+
+.about
+{
+display: contents;
+color: black;
+margin: 0;
+font-family: sans-serif;
+text-align: center;
+font-size: 20px;
+text-shadow:  0 0 10px black;
+}
