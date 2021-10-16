@@ -1,0 +1,159 @@
+body
+{
+    height: 100%;
+    width: 100%;
+    margin-left: 0;
+    margin-right: 0;
+    box-sizing: border-box;
+}
+
+.heading
+{
+  font-family: 'Gluten',cursive;
+  text-shadow: 0 0 10px #f0d200;
+}
+
+.topnav {
+    background-color: #e2b2ff;
+    overflow: hidden;
+  }
+  
+  .topnav a 
+  {
+    float: left;
+    color: #eeeded;
+    padding: 12px 30px;
+    text-decoration: none;
+    font-size: 18px;
+  }
+  .topnav a:hover
+  {
+    color: black;
+    box-shadow: 0 0 20px #a767ff;
+    text-shadow:0 0 5px black;
+  }
+  
+  .gifdev
+  {
+    position: absolute;
+    top: 30%;
+    left: 5%;
+  }
+
+  .paragraphweb
+  {
+    position: absolute;
+    top: 50%;
+    left: 60%;
+    font-family: 'Gluten', cursive;
+    padding-top:  100px;
+    padding-right: 50px;
+    padding-left: 100px;
+    padding-bottom: 50px;
+    float: right;
+    background-color: #a767ff;
+    border:  #a767ff;
+    border-radius: 10px;
+    width: 15%;
+    height: 20%;
+   
+  }
+
+  .gifhack
+  {
+   position: absolute;
+   top: 118%;
+   right: 5%;
+  
+  }
+
+  .paragraphhack
+  {
+    position: absolute;
+    top: 136%;
+    right: 60%;
+    font-family: 'Gluten', cursive;
+    padding-top:  100px;
+    padding-right: 50px;
+    padding-left: 100px;
+    padding-bottom: 50px;
+    background-color: #f0d200;
+    border: #f0d200;border-radius: 10px;
+    border-radius: 10px;
+    width: 15%;
+    height: 20%;
+  }
+  
+  .gifgame
+  {
+    position: absolute;
+    top: 220%;
+    left: 5%;
+  }
+
+  .paragraphgame
+  {
+    border-radius: 10px;
+    position: absolute;
+    top: 230%;
+    left: 60%;
+    font-family: 'Gluten', cursive;
+    padding-top:  100px;
+    padding-right: 50px;
+    padding-left: 100px;
+    padding-bottom: 50px;
+    background-color: #e2b2ff;
+    border:  #e2b2ff;
+    border-radius: 10px;
+    width: 15%;
+    height: 20%;
+  }
+  
+  .gifmobile
+  {
+    position: absolute;
+    top: 310%;
+    left: 55%;
+  }
+
+  .paragraphmobile
+  {
+    position: absolute;
+    top: 325%;
+    right: 60%;
+    font-family: 'Gluten', cursive;
+    padding-top:  100px;border-radius: 10px;
+    padding-right: 50px;
+    padding-left: 100px;
+    padding-bottom: 50px;
+    background-color: #faf2b5;
+    border:  #faf2b5;
+    border-radius: 10px;
+    width: 15%;
+    height: 20%;
+  }
+
+.about
+{
+  color: white;
+  position: absolute;
+  top: 420%;
+  font-family: 'Gluten', cursive;
+  text-align: center;
+  font-size: 20px;
+  padding-top:  10px;
+  padding-right: 50px;
+  padding-left: 90px;
+  padding-bottom: 50px;
+  background-color: #a767ff;
+  border: #a767ff;
+  width: 90%;
+  height: 50%;
+}
+ .about:hover
+ {
+   background-color: #e2b2ff;
+   color: black;
+   text-shadow: 0 0 10px black ,  0 0 15px black;
+   
+ }
