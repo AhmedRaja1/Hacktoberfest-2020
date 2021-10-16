@@ -2,7 +2,7 @@
 # Hacktoberfest
 
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-58-orange.svg?style=flat-square)](#contributors-)
+[![All Contributors](https://img.shields.io/badge/all_contributors-59-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 
 ![Code For Good](https://raw.githubusercontent.com/AhmedRaja1/Hacktoberfest/main/Creative%20Graphic%20Design%20Content/code-for-good.png)
@@ -91,6 +91,7 @@
   <tr>
     <td align="center"><a href="https://github.com/EngineerSaqlain"><img src="https://avatars.githubusercontent.com/u/92431771?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Engnr Saqlain Ahmad</b></sub></a><br /><a href="https://github.com/AhmedRaja1/Hacktoberfest/commits?author=EngineerSaqlain" title="Code">💻</a></td>
     <td align="center"><a href="https://github.com/Itstechnology124"><img src="https://avatars.githubusercontent.com/u/92498895?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Adeel Rehman</b></sub></a><br /><a href="https://github.com/AhmedRaja1/Hacktoberfest/commits?author=Itstechnology124" title="Code">💻</a></td>
+    <td align="center"><a href="https://github.com/M-Tashfeen-Saleem"><img src="https://avatars.githubusercontent.com/u/89654572?v=4?s=100" width="100px;" alt=""/><br /><sub><b><tashfeen/saleem></b></sub></a><br /><a href="https://github.com/AhmedRaja1/Hacktoberfest/commits?author=M-Tashfeen-Saleem" title="Code">💻</a></td>
   </tr>
 </table>
 
