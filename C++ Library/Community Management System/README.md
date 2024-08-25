@@ -17,7 +17,7 @@
 - [Contact](#contact)
 
 ## Introduction
-Welcome to the DSA Project repository! This project showcases implementations of various Data Structures and Algorithms in C++. It's designed to help computer science students and professionals understand and apply DSA concepts.
+This project showcases implementations of various Data Structures and Algorithms in C++. It's designed to help computer science students and professionals understand and apply DSA concepts.
 
 ## Features
 - Implementations of common data structures such as arrays, linked lists, stacks, queues, trees, and graphs.
